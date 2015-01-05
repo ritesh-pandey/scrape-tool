@@ -1,0 +1,392 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "8 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "50 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4400 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1700 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1860 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2725 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "180 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1426 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Turbo-intercooled, Common Rail Diesel Engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "1461 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "75 bhp"
+    },
+    {
+      "key": "Max Torque",
+      "value": "185 Nm @ 1750 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "20.07 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, SOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson Strut Type Coil Spring"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Multi-leaf Rigid"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Hydraulic Power Assisted "
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.2 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "165 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "165 R14"
+    }
+  ],
+  "features": [
+    {
+      "Braking & Traction": [
+        {
+          "key": "Anti-Lock Braking System",
+          "value": "No"
+        },
+        {
+          "key": "Electronic Brake-force Distribution",
+          "value": "No"
+        },
+        {
+          "key": "Brake Assist",
+          "value": "No"
+        },
+        {
+          "key": "Electronic Stability Program",
+          "value": "No"
+        },
+        {
+          "key": "Traction Control System",
+          "value": "No"
+        }
+      ],
+      "Comfort & Convenience": [
+        {
+          "key": "Air Conditioner",
+          "value": "Manual"
+        },
+        {
+          "key": "Rear AC",
+          "value": "Vents Only"
+        },
+        {
+          "key": "Heater",
+          "value": "Yes"
+        },
+        {
+          "key": "Power Steering",
+          "value": "Yes"
+        },
+        {
+          "key": "Ash Tray",
+          "value": "No"
+        },
+        {
+          "key": "Keyless Start",
+          "value": "No"
+        },
+        {
+          "key": "CD Changer",
+          "value": "No"
+        },
+        {
+          "key": "Headlight off and lgnition Key Off Reminder",
+          "value": "Yes"
+        },
+        {
+          "key": "Paddle Shift",
+          "value": "No"
+        },
+        {
+          "key": "Rear Parking Sensors",
+          "value": "No"
+        },
+        {
+          "key": "Cigarette Lighter",
+          "value": "No"
+        },
+        {
+          "key": "12V Power Outlets",
+          "value": "Yes"
+        }
+      ],
+      "Doors, Windows, Mirrors & Wipers": [
+        {
+          "key": "Power Windows",
+          "value": "Front Only"
+        },
+        {
+          "key": "Rear Defogger",
+          "value": "No"
+        },
+        {
+          "key": "Boot-lid Opener",
+          "value": "Internal"
+        },
+        {
+          "key": "Door Pockets",
+          "value": "Front & Rear"
+        },
+        {
+          "key": "Outside Rear View Mirrors",
+          "value": "Both Sides"
+        },
+        {
+          "key": "Adjustable ORVM",
+          "value": "Internally Adjustable"
+        },
+        {
+          "key": "Turn Indicators on ORVM",
+          "value": "No"
+        },
+        {
+          "key": "Body-Coloured ORVMs",
+          "value": "Yes"
+        },
+        {
+          "key": "Rear Wiper",
+          "value": "No"
+        },
+        {
+          "key": "Rain-sensing Wipers",
+          "value": "No"
+        },
+        {
+          "key": "Headlight Washers",
+          "value": "No"
+        }
+      ],
+      "Exterior": [
+        {
+          "key": "Body-Coloured  Bumpers",
+          "value": "Yes"
+        }
+      ],
+      "Instrumentation": [
+        {
+          "key": "Clock",
+          "value": "Digital"
+        },
+        {
+          "key": "Low Fuel Level Warning",
+          "value": "Yes"
+        }
+      ],
+      "Lighting": [
+        {
+          "key": "Headlamps",
+          "value": "Conventional"
+        },
+        {
+          "key": "Automatic Head Lamps",
+          "value": "No"
+        },
+        {
+          "key": "Clear lens Head Lamp",
+          "value": "Yes"
+        },
+        {
+          "key": "Daytime Running Lamps",
+          "value": "No"
+        },
+        {
+          "key": "LED tail lamps",
+          "value": "No"
+        },
+        {
+          "key": "Clear lens Tail Lamp",
+          "value": "Yes"
+        },
+        {
+          "key": "Headlight Height Adjuster",
+          "value": "Yes"
+        }
+      ],
+      "Locks & Security": [
+        {
+          "key": "Engine immobilizer",
+          "value": "Yes"
+        },
+        {
+          "key": "Central Locking",
+          "value": "Yes"
+        },
+        {
+          "key": "Child Safety Lock",
+          "value": "Yes"
+        }
+      ],
+      "Safety": [
+        {
+          "key": "Airbags",
+          "value": "No"
+        },
+        {
+          "key": "Dual-Stage Airbags",
+          "value": "No"
+        },
+        {
+          "key": "Middle rear three-point seatbelt",
+          "value": "No"
+        }
+      ],
+      "Seats & Upholstery": [
+        {
+          "key": "Lumbar Support",
+          "value": "No"
+        },
+        {
+          "key": "Folding Rear Seat",
+          "value": "Full"
+        },
+        {
+          "key": "Driver Armrest",
+          "value": "No"
+        },
+        {
+          "key": "Rear Armrest",
+          "value": "No"
+        },
+        {
+          "key": "Adjustable Head-rests",
+          "value": "Front & Rear"
+        },
+        {
+          "key": "Front Seat Pockets",
+          "value": "Yes"
+        },
+        {
+          "key": "Audio Controls in Rear Armrest",
+          "value": "No"
+        }
+      ],
+      "Wheels & Tyres": [
+        {
+          "key": "Alloy Wheels",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "key": "Imperial Black",
+      "value": "rgb(44, 41, 52)"
+    },
+    {
+      "key": "Passion Red",
+      "value": "rgb(128, 19, 36)"
+    },
+    {
+      "key": "Moon Grey",
+      "value": "rgb(137, 127, 125)"
+    },
+    {
+      "key": "Silky Silver",
+      "value": "rgb(218, 218, 218)"
+    },
+    {
+      "key": "Sparkling White",
+      "value": "rgb(255, 255, 255)"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "251 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "45 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3895 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1735 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1555 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2460 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "174 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1030 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Displacement",
+      "value": "1364 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "67 bhp @ 3800 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "170 Nm @ 1800 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "23.59 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "2, SOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "Common Rail Diesel"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson strut"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Torsion beam"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "4.8 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "185 / 60 R15"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "185 / 60 R15"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Ultramarine Blue",
+      "value": "rgb(0, 81, 154)"
+    },
+    {
+      "key": "Celestial Black",
+      "value": "rgb(37, 38, 30)"
+    },
+    {
+      "key": "Classic Grey",
+      "value": "rgb(61, 62, 66)"
+    },
+    {
+      "key": "Vermilion Red",
+      "value": "rgb(107, 27, 28)"
+    },
+    {
+      "key": "Symphony Silver",
+      "value": "rgb(205, 210, 214)"
+    },
+    {
+      "key": "Harmony Beige",
+      "value": "rgb(211, 199, 183)"
+    },
+    {
+      "key": "White",
+      "value": "rgb(230, 234, 233)"
+    },
+    {
+      "key": "Inferno Orange",
+      "value": "rgb(235, 73, 35)"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "510 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "43 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4490 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1730 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1485 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2650 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "170 mm"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Displacement",
+      "value": "1373 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "91 bhp @ 6000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "130 Nm @ 4000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "20.73 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson Strut"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Torsion Beam"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.4 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "195 / 55 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "195 / 55 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Pearl Midnight Black",
+      "value": "rgb(17, 16, 19)"
+    },
+    {
+      "key": "Pearl Metallic Dignity Brown",
+      "value": "rgb(60, 45, 39)"
+    },
+    {
+      "key": "Metallic Glistenina Gray",
+      "value": "rgb(87, 87, 90)"
+    },
+    {
+      "key": "Metallic Clear Beige",
+      "value": "rgb(95, 78, 66)"
+    },
+    {
+      "key": "Pearl Sangria Red",
+      "value": "rgb(101, 24, 38)"
+    },
+    {
+      "key": "Metallic Silky Silver",
+      "value": "rgb(181, 181, 186)"
+    },
+    {
+      "key": "Pearl Snow White",
+      "value": "rgb(222, 221, 221)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "href": "http://www.carwale.com/volvo-cars/v40crosscountry/",
+    "name": "Volvo V40 Cross Country"
+  },
+  {
+    "href": "http://www.carwale.com/volvo-cars/s60/",
+    "name": "Volvo S60"
+  },
+  {
+    "href": "http://www.carwale.com/volvo-cars/xc60/",
+    "name": "Volvo XC60"
+  },
+  {
+    "href": "http://www.carwale.com/volvo-cars/s80/",
+    "name": "Volvo S80"
+  },
+  {
+    "href": "http://www.carwale.com/volvo-cars/xc90/",
+    "name": "Volvo XC90"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/volvo-cars/s60-2011-2013/",
+    "name": "Volvo S60 [2011-2013]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/volvo-cars/xc60-2010-2013/",
+    "name": "Volvo XC60 [2010-2013]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/volvo-cars/s80-2006-2014/",
+    "name": "Volvo S80 [2006-2014]"
+  }
+]

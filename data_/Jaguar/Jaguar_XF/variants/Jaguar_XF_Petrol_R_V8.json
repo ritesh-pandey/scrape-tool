@@ -1,0 +1,176 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "500 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4961 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1877 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1460 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2909 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1891 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "5.0 Litre V8 S/C Petrol"
+    },
+    {
+      "key": "Displacement",
+      "value": "5000 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "503 bhp @ 6500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "625 Nm @ 5500 RPM"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "92.5 mm x 93 mm"
+    },
+    {
+      "key": "Cylinders",
+      "value": "8, In V Shape"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "8 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Rack and pinion with  power steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.74 metres"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Ultimate Black",
+      "value": "rgb(10, 10, 10)"
+    },
+    {
+      "key": "Indigo",
+      "value": "rgb(15, 49, 97)"
+    },
+    {
+      "key": "Ebony",
+      "value": "rgb(18, 22, 20)"
+    },
+    {
+      "key": "Botanical Green",
+      "value": "rgb(20, 89, 61)"
+    },
+    {
+      "key": "Spectrum Blue",
+      "value": "rgb(22, 34, 118)"
+    },
+    {
+      "key": "Emerald Fire",
+      "value": "rgb(48, 100, 34)"
+    },
+    {
+      "key": "Pearl Grey",
+      "value": "rgb(92, 80, 80)"
+    },
+    {
+      "key": "Lunar Grey",
+      "value": "rgb(99, 106, 112)"
+    },
+    {
+      "key": "Vapour Grey",
+      "value": "rgb(109, 108, 103)"
+    },
+    {
+      "key": "Claret",
+      "value": "rgb(123, 24, 29)"
+    },
+    {
+      "key": "Radiance",
+      "value": "rgb(125, 35, 27)"
+    },
+    {
+      "key": "Azure Blue",
+      "value": "rgb(156, 159, 176)"
+    },
+    {
+      "key": "Liquid Silver",
+      "value": "rgb(164, 176, 188)"
+    },
+    {
+      "key": "Winter Gold",
+      "value": "rgb(176, 170, 156)"
+    },
+    {
+      "key": "Frost Blue",
+      "value": "rgb(182, 205, 255)"
+    },
+    {
+      "key": "Porcelain",
+      "value": "rgb(215, 214, 210)"
+    },
+    {
+      "key": "Cashmere Gold",
+      "value": "rgb(232, 226, 202)"
+    }
+  ]
+}

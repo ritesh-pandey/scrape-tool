@@ -1,0 +1,176 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "7 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "981 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "65 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4650 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1918 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1925 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2650 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "205 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "2115 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "2.2 L 16 Valve DOHC VTT DiCOR"
+    },
+    {
+      "key": "Displacement",
+      "value": "2179 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "138 bhp @ 4000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "320 Nm @ 1700 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "13.93 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "97 mm x 100 mm"
+    },
+    {
+      "key": "Compression Ratio",
+      "value": "17.5:1"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "CRDI"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent Double Wishbone with Torsion bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "5 link Suspension with coil springs"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Power Steering, Adjustable Height & Collapsible"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "6 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "235 / 70 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "235 / 70 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Cycus Grey",
+      "value": "rgb(91, 127, 141)"
+    },
+    {
+      "key": "Quartz Black",
+      "value": "rgb(116, 120, 119)"
+    },
+    {
+      "key": "Arctic Silver",
+      "value": "rgb(250, 246, 243)"
+    },
+    {
+      "key": "Arctic White",
+      "value": "rgb(255, 255, 255)"
+    },
+    {
+      "key": "Pearl White",
+      "value": "rgb(255, 255, 255)"
+    }
+  ]
+}

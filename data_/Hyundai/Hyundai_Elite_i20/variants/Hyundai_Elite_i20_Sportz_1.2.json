@@ -1,0 +1,160 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "285 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "45 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3985 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1734 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1505 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2570 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "170 mm"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder"
+    },
+    {
+      "key": "Displacement",
+      "value": "1197 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "82 bhp @ 6000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "115 Nm @ 4000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "18.6 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson strut with coil spring"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Coupled torsion beam axle with coil spring"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "185 / 70 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "185 / 70 R14"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Pristine Blue",
+      "value": "rgb(59, 47, 119)"
+    },
+    {
+      "key": "Stardust",
+      "value": "rgb(69, 69, 69)"
+    },
+    {
+      "key": "Mystic Blue",
+      "value": "rgb(77, 79, 97)"
+    },
+    {
+      "key": "Red Passion",
+      "value": "rgb(131, 23, 30)"
+    },
+    {
+      "key": "Midas Gold",
+      "value": "rgb(149, 131, 117)"
+    },
+    {
+      "key": "Sleek Silver",
+      "value": "rgb(166, 169, 167)"
+    },
+    {
+      "key": "Polar White",
+      "value": "rgb(238, 234, 227)"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "432 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "80 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "5015 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1931 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1931 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "1931 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1880 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "V6 Diesel engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "2967 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "250 bhp @ 3800 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "550 Nm @ 1750 RPM"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Compression Ratio",
+      "value": "12.5:1"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "6, In V Shape"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "7 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "Yes"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "AWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Front independent large format double wishbone"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "fully independent multi-link suspension"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Hydraulic Power Steering"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "255 / 50 R18"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "285 / 40 R19"
+    }
+  ],
+  "features": [
+    null
+  ],
+  "colors": []
+}

@@ -1,0 +1,107 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "7 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "105 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "5199 mm"
+    },
+    {
+      "key": "Width",
+      "value": "2220 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1840 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "3120 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "295.5 mm"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "4.4 L SDV8 Diesel"
+    },
+    {
+      "key": "Displacement",
+      "value": "4367 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "334 bhp @ 3500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "700 Nm @ 1750 RPM"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "8, In V Shape"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "8 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "AWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Electronic Cross Linked Air Suspension (with Variable Ride Height)"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Electronic Cross Linked Air Suspension (with Variable Ride Height)"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electronic Power Assisted Steering "
+    }
+  ],
+  "colors": []
+}

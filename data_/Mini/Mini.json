@@ -1,0 +1,23 @@
+[
+  {
+    "href": "http://www.carwale.com/mini-cars/coopercountryman/",
+    "name": "Mini Cooper Countryman"
+  },
+  {
+    "href": "http://www.carwale.com/mini-cars/cooper-s/",
+    "name": "Mini Cooper S"
+  },
+  {
+    "href": "http://www.carwale.com/mini-cars/cooper/",
+    "name": "Mini Cooper"
+  },
+  {
+    "href": "http://www.carwale.com/mini-cars/cooperconvertible/",
+    "name": "Mini Cooper Convertible"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mini-cars/cooper-2012-2014/",
+    "name": "Mini Cooper [2012-2014]"
+  }
+]

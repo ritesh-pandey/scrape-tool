@@ -1,0 +1,164 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "7 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "55 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3985 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1850 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1880 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2760 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "180 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1640 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "3 cylinder diesel engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "1493 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "100 bhp @ 3750 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "240 Nm @ 1600 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "17.1 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "3, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent Double Wishbone type, Coil springs with Anti-roll bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Five-link, Coil springs"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Power and Tilt Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.4 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "205 / 65 R15"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "205 / 65 R15"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Fiery Black",
+      "value": "rgb(0, 0, 0)"
+    },
+    {
+      "key": "Java Brown",
+      "value": "rgb(132, 89, 90)"
+    },
+    {
+      "key": "Rocky Beige",
+      "value": "rgb(140, 134, 123)"
+    },
+    {
+      "key": "Toreador Red",
+      "value": "rgb(156, 60, 66)"
+    },
+    {
+      "key": "Mist Silver",
+      "value": "rgb(247, 251, 255)"
+    },
+    {
+      "key": "Diamond White",
+      "value": "rgb(255, 255, 255)"
+    }
+  ]
+}

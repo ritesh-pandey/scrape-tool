@@ -1,0 +1,168 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "7 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "70 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4585 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1890 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1785 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2700 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "200 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1785 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "4 cylinder mHawk CRDe diesel engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "2179 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "140 bhp @ 3750 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "330 Nm @ 2800 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "15.1 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "MacPherson type with anti-roll bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Multi-link type with anti-roll bar"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Tilt and Telescopic Power Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.6 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "235 / 65 R17"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "235 / 65 R17"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Volcano Black",
+      "value": "rgb(0, 0, 0)"
+    },
+    {
+      "key": "Arctic Blue",
+      "value": "rgb(40, 80, 100)"
+    },
+    {
+      "key": "Opulent Purple",
+      "value": "rgb(48, 7, 32)"
+    },
+    {
+      "key": "Dolphin Grey",
+      "value": "rgb(80, 81, 86)"
+    },
+    {
+      "key": "Tuscan Red",
+      "value": "rgb(124, 21, 19)"
+    },
+    {
+      "key": "Moondust Silver",
+      "value": "rgb(132, 137, 145)"
+    },
+    {
+      "key": "Satin White",
+      "value": "rgb(187, 180, 157)"
+    }
+  ]
+}

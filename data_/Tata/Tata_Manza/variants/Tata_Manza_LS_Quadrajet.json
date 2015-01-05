@@ -1,0 +1,172 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "460 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "44 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4413 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1703 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1550 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2520 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "165 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1200 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Common Rail, Diesel"
+    },
+    {
+      "key": "Displacement",
+      "value": "1248 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "88 bhp @ 4000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "200 Nm @ 1750 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "21.2 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "Common Rail"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent; Lower Wishbone; McPherson Strut with Coil Spring"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Semi-independent, Twist Beam with Coil Springs and Hydraulic Shock Absorbers"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Power Assisted Rack & Pinion - Hydraulic"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.1 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "185 / 60 R15"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "185 / 60 R15"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Infinity Black",
+      "value": "rgb(0, 0, 0)"
+    },
+    {
+      "key": "Castle Grey",
+      "value": "rgb(115, 104, 110)"
+    },
+    {
+      "key": "Tyrian Wine",
+      "value": "rgb(136, 28, 86)"
+    },
+    {
+      "key": "Jet Silver",
+      "value": "rgb(164, 164, 164)"
+    },
+    {
+      "key": "Laser Red",
+      "value": "rgb(237, 27, 36)"
+    },
+    {
+      "key": "Dew White",
+      "value": "rgb(239, 239, 227)"
+    }
+  ]
+}

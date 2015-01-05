@@ -1,0 +1,152 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "70 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4820 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1835 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1490 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2795 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "155 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "2080 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "2.4L GDi"
+    },
+    {
+      "key": "Displacement",
+      "value": "2359 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "198 bhp @ 6300 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "250 Nm @ 4250 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "12.2 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "Yes"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Mcpherson strut Type"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Multi Link Type"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Tilt and Telescopic Power Steering"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "215 / 55 R17"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "215 / 55 R17"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Black Diamond",
+      "value": "rgb(12, 7, 13)"
+    },
+    {
+      "key": "Sleek Silver",
+      "value": "rgb(169, 173, 186)"
+    },
+    {
+      "key": "Sliky Beige",
+      "value": "rgb(178, 171, 155)"
+    },
+    {
+      "key": "Crystal White",
+      "value": "rgb(250, 254, 255)"
+    }
+  ]
+}

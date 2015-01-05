@@ -1,0 +1,156 @@
+[
+  {
+    "href": "http://www.carwale.com/bmw-cars/1series/",
+    "name": "BMW 1 Series"
+  },
+  {
+    "href": "http://www.carwale.com/bmw-cars/x1/",
+    "name": "BMW X1"
+  },
+  {
+    "href": "http://www.carwale.com/bmw-cars/3series/",
+    "name": "BMW 3 Series"
+  },
+  {
+    "href": "http://www.carwale.com/bmw-cars/3-series-gt/",
+    "name": "BMW 3 Series GT"
+  },
+  {
+    "href": "http://www.carwale.com/bmw-cars/x3/",
+    "name": "BMW X3"
+  },
+  {
+    "href": "http://www.carwale.com/bmw-cars/5series/",
+    "name": "BMW 5 Series"
+  },
+  {
+    "href": "http://www.carwale.com/bmw-cars/x5/",
+    "name": "BMW X5"
+  },
+  {
+    "href": "http://www.carwale.com/bmw-cars/z4/",
+    "name": "BMW Z4"
+  },
+  {
+    "href": "http://www.carwale.com/bmw-cars/7series/",
+    "name": "BMW 7 Series"
+  },
+  {
+    "href": "http://www.carwale.com/bmw-cars/6series/",
+    "name": "BMW 6 Series"
+  },
+  {
+    "href": "http://www.carwale.com/bmw-cars/4-series/",
+    "name": "BMW 4 Series"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/3-series-2007-2009/",
+    "name": "BMW 3 Series [2007-2009]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/3-series-2009-2010/",
+    "name": "BMW 3 Series [2009-2010]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/3-series-2010-2012/",
+    "name": "BMW 3 Series [2010-2012]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/3-series-import-pre-2007/",
+    "name": "BMW 3 Series [Import Pre-2007]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/5-series-2007-2010/",
+    "name": "BMW 5 Series [2007-2010]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/5-series-2010-2013/",
+    "name": "BMW 5 Series [2010-2013]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/5-series-import-pre-2007/",
+    "name": "BMW 5 Series [Import Pre-2007]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/5-series-gt/",
+    "name": "BMW 5 Series GT"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/6-series-2008-2011/",
+    "name": "BMW 6 Series [2008-2011]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/6-series-2011-2014/",
+    "name": "BMW 6 Series [2011-2014]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/7-series-2008-2013/",
+    "name": "BMW 7 Series [2008-2013]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/7-series-import-pre-2007/",
+    "name": "BMW 7 Series [Import Pre-2007]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/x120102012/",
+    "name": "BMW X1 [2010-2012]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/x3-2008-2011/",
+    "name": "BMW X3 [2008-2011]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/x5-2008-2012/",
+    "name": "BMW X5 [2008-2012]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/x6-2009-2012/",
+    "name": "BMW X6 [2009-2012]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/x3-2011-2014/",
+    "name": "BMW X3 [2011-2014]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/x6-2012-2014/",
+    "name": "BMW X6 [2012-2014]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/z420102013/",
+    "name": "BMW Z4 [2010-2013]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/m3-2009-2013/",
+    "name": "BMW M3 [2009-2013]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/x5-2007-2014/",
+    "name": "BMW X5 [2012-2014]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bmw-cars/m5-2008-2014/",
+    "name": "BMW M5 [2008-2014]"
+  }
+]

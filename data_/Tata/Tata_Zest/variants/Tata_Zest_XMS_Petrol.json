@@ -1,0 +1,164 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "44 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3995 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1706 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1570 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2470 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "175 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1129 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Revotron 1.2 T"
+    },
+    {
+      "key": "Displacement",
+      "value": "1193 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "89 bhp @ 5000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "140 Nm @ 1750 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "17.6 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "75 mm x 67.5 mm"
+    },
+    {
+      "key": "Compression Ratio",
+      "value": "9.1:1"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "2, SOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent; Lower Wishbone; McPherson Strut with Coil Spring"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Twist Beam with Coil Springs "
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electric Power Assisted"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.1 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "185 / 60 R15"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "185 / 60 R15"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Buzz Blue",
+      "value": "rgb(50, 83, 176)"
+    },
+    {
+      "key": "Sky Grey",
+      "value": "rgb(115, 104, 110)"
+    },
+    {
+      "key": "Dune Beige",
+      "value": "rgb(134, 123, 101)"
+    },
+    {
+      "key": "Platinum Silver",
+      "value": "rgb(164, 164, 164)"
+    },
+    {
+      "key": "Venetion Red",
+      "value": "rgb(237, 27, 36)"
+    },
+    {
+      "key": "Pristine White",
+      "value": "rgb(239, 239, 227)"
+    }
+  ]
+}

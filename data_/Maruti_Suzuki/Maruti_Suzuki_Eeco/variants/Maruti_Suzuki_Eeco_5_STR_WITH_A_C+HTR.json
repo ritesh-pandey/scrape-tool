@@ -1,0 +1,168 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "40 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3675 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1475 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1800 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2350 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "160 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "928 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Aluminium 32 bit"
+    },
+    {
+      "key": "Displacement",
+      "value": "1196 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "73 bhp @ 6000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "101 Nm @ 3000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "15.1 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Compression Ratio",
+      "value": "9.9:1"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson struts"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "3 Link Rigid"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Rack & Pinion"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "4.5 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "155 R13"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "155 R13"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Metallic Midnight Black",
+      "value": "rgb(0, 0, 0)"
+    },
+    {
+      "key": "Metallic Blue Blaze",
+      "value": "rgb(0, 0, 102)"
+    },
+    {
+      "key": "Metallic Glistening Grey",
+      "value": "rgb(75, 105, 116)"
+    },
+    {
+      "key": "Metallic Sillky Silver",
+      "value": "rgb(191, 203, 199)"
+    },
+    {
+      "key": "Bright Red",
+      "value": "rgb(228, 0, 0)"
+    },
+    {
+      "key": "Superior White",
+      "value": "rgb(255, 255, 255)"
+    }
+  ]
+}

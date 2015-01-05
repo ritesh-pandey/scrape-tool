@@ -1,0 +1,168 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "670 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "100 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4846 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1939 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1702 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2895 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "215 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "2245 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "V8 Petrol engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "4806 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "500 bhp @ 6500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "700 Nm @ 2250 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "9.52 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Compression Ratio",
+      "value": "10.5:1"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "8, In V Shape"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "8 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "Yes"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "Yes"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "AWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Fully independent extra-large format double wishbone"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "fully independent multi-link suspension"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Hydraulic Power Steering"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "265 / 50 R19"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "265 / 50 R19"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Dark Blue",
+      "value": "rgb(7, 37, 63)"
+    },
+    {
+      "key": "Jet Black",
+      "value": "rgb(18, 18, 18)"
+    },
+    {
+      "key": "Jet Green",
+      "value": "rgb(31, 55, 42)"
+    },
+    {
+      "key": "Umber Metallic",
+      "value": "rgb(74, 67, 61)"
+    },
+    {
+      "key": "Meteor Grey",
+      "value": "rgb(82, 87, 93)"
+    },
+    {
+      "key": "Classic Silver",
+      "value": "rgb(223, 223, 223)"
+    }
+  ]
+}

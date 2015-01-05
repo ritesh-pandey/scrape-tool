@@ -1,0 +1,172 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "35 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3539 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1495 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1670 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2400 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "165 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "870 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "K10B"
+    },
+    {
+      "key": "Displacement",
+      "value": "998 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "67 bhp @ 6200 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "90 Nm @ 3500 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "20.5 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "3, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Mc Pherson Strut with coil spring"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Isolated trailing link with coil spring"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electronic Power Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "4.6 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "145 / 80 R13"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "145 / 80 R13"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Bakers Chocolate",
+      "value": "rgb(72, 45, 27)"
+    },
+    {
+      "key": "Passion Red",
+      "value": "rgb(106, 0, 0)"
+    },
+    {
+      "key": "Ecru Beige",
+      "value": "rgb(109, 85, 63)"
+    },
+    {
+      "key": "Breeze Blue",
+      "value": "rgb(112, 133, 149)"
+    },
+    {
+      "key": "Fire Brick Red",
+      "value": "rgb(133, 8, 23)"
+    },
+    {
+      "key": "Glistening Grey",
+      "value": "rgb(170, 170, 170)"
+    },
+    {
+      "key": "Silky Silver",
+      "value": "rgb(228, 229, 226)"
+    },
+    {
+      "key": "Superior White",
+      "value": "rgb(245, 245, 245)"
+    }
+  ]
+}

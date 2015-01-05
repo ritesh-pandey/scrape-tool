@@ -1,0 +1,176 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "251 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "41 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3825 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1665 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1530 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2450 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "154 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "930 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "3 cylinder petrol engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "1198 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "75 bhp @ 6000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "104 Nm @ 4000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "18.44 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "78 mm x 83.6 mm"
+    },
+    {
+      "key": "Compression Ratio",
+      "value": "9.8:1"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "3, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson strut front axle"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Torsion beam rear axle"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electric Power assisted rack & pinion"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "4.65 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "165 / 70 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "165 / 70 R14"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Onyx Black",
+      "value": "rgb(10, 12, 16)"
+    },
+    {
+      "key": "Turquoise Blue",
+      "value": "rgb(17, 101, 126)"
+    },
+    {
+      "key": "Olive Green",
+      "value": "rgb(158, 166, 56)"
+    },
+    {
+      "key": "Blade Silver",
+      "value": "rgb(160, 178, 205)"
+    },
+    {
+      "key": "Brick Red",
+      "value": "rgb(178, 48, 56)"
+    },
+    {
+      "key": "Storm White",
+      "value": "rgb(249, 250, 252)"
+    }
+  ]
+}

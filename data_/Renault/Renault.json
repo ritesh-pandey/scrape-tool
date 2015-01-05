@@ -1,0 +1,32 @@
+[
+  {
+    "href": "http://www.carwale.com/renault-cars/pulse/",
+    "name": "Renault Pulse"
+  },
+  {
+    "href": "http://www.carwale.com/renault-cars/scala/",
+    "name": "Renault Scala"
+  },
+  {
+    "href": "http://www.carwale.com/renault-cars/duster/",
+    "name": "Renault Duster"
+  },
+  {
+    "href": "http://www.carwale.com/renault-cars/fluence/",
+    "name": "Renault Fluence"
+  },
+  {
+    "href": "http://www.carwale.com/renault-cars/koleos/",
+    "name": "Renault Koleos"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/renault-cars/koleos-2011-2014/",
+    "name": "Renault Koleos [2011-2014]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/renault-cars/fluence20112014/",
+    "name": "Renault Fluence [2011-2014]"
+  }
+]

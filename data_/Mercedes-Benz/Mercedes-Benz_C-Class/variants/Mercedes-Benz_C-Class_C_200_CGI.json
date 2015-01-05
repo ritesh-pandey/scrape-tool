@@ -1,0 +1,156 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "480 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4686 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1810 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1442 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2840 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1545 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Blue-efficiency"
+    },
+    {
+      "key": "Displacement",
+      "value": "1991 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "181 bhp @ 5500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "300 Nm @ 1200 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "14.74 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "7 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "Yes"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "AGILITY CONTROL suspension with selective damping system"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "AGILITY CONTROL suspension with selective damping system"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electronic Power Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.61 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "225 / 50 R17"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "225 / 50 R17"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Cavansite Blue",
+      "value": "rgb(46, 71, 120)"
+    },
+    {
+      "key": "Obsidian Black",
+      "value": "rgb(50, 55, 66)"
+    },
+    {
+      "key": "Citrine Brown",
+      "value": "rgb(100, 77, 75)"
+    },
+    {
+      "key": "Iridium Silver",
+      "value": "rgb(185, 194, 203)"
+    },
+    {
+      "key": "Polar White",
+      "value": "rgb(205, 206, 213)"
+    }
+  ]
+}

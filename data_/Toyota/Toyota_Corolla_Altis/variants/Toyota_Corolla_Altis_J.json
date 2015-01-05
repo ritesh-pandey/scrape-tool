@@ -1,0 +1,160 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "50 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4620 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1775 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1475 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2700 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1230 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "D-4D Diesel engine with Variable Nozzle Turbo and Intercooler, 4 cylinder inline"
+    },
+    {
+      "key": "Displacement",
+      "value": "1364 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "87 bhp @ 3800 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "205 Nm @ 1800 RPM"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "2"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "Common Rail"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson strut"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Torsion beam"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.4 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": " 65 R15"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "195 / 65 R15"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Celestial Black",
+      "value": "rgb(49, 69, 70)"
+    },
+    {
+      "key": "Grey Metallic",
+      "value": "rgb(52, 63, 69)"
+    },
+    {
+      "key": "Blue Metallic",
+      "value": "rgb(101, 133, 148)"
+    },
+    {
+      "key": "Silver Mica Metallic",
+      "value": "rgb(136, 144, 147)"
+    },
+    {
+      "key": "Champagne Mica Metallic",
+      "value": "rgb(181, 171, 161)"
+    },
+    {
+      "key": "White Pearl Crystal Shine",
+      "value": "rgb(192, 197, 200)"
+    },
+    {
+      "key": "Super White II",
+      "value": "rgb(230, 234, 237)"
+    }
+  ]
+}

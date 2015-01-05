@@ -1,0 +1,97 @@
+[
+  {
+    "href": "http://www.carwale.com/ford-cars/figo/",
+    "name": "Ford Figo"
+  },
+  {
+    "href": "http://www.carwale.com/ford-cars/classic/",
+    "name": "Ford Classic"
+  },
+  {
+    "href": "http://www.carwale.com/ford-cars/ecosport/",
+    "name": "Ford EcoSport"
+  },
+  {
+    "href": "http://www.carwale.com/ford-cars/fiesta/",
+    "name": "Ford Fiesta"
+  },
+  {
+    "href": "http://www.carwale.com/ford-cars/endeavour/",
+    "name": "Ford Endeavour"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/ford-cars/endeavour-2003-2007/",
+    "name": "Ford Endeavour [2003-2007]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/ford-cars/endeavour-2007-2009/",
+    "name": "Ford Endeavour [2007-2009]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/ford-cars/escort/",
+    "name": "Ford Escort"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/ford-cars/fiesta-2005-2008/",
+    "name": "Ford Fiesta [2005-2008]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/ford-cars/fiesta-2008-2011/",
+    "name": "Ford Fiesta [2008-2011]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/ford-cars/fiestaclassic20112012/",
+    "name": "Ford Fiesta Classic [2011-2012]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/ford-cars/figo-2010-2012/",
+    "name": "Ford Figo [2010-2012]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/ford-cars/fusion-2004-2006/",
+    "name": "Ford Fusion [2004-2006]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/ford-cars/fusion-2006-2010/",
+    "name": "Ford Fusion [2006-2010]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/ford-cars/ikon-1999-2003/",
+    "name": "Ford Ikon [1999-2003]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/ford-cars/ikon-2003-2009/",
+    "name": "Ford Ikon [2003-2009]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/ford-cars/ikon-2009-2011/",
+    "name": "Ford Ikon [2009-2011]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/ford-cars/mondeo/",
+    "name": "Ford Mondeo"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/ford-cars/fiesta-2011-2014/",
+    "name": "Ford Fiesta [2011-2014]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/ford-cars/endeavour-2009-2014/",
+    "name": "Ford Endeavour [2009-2014]"
+  }
+]

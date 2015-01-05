@@ -1,0 +1,124 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "470 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4691 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1777 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1416 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1650 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Displacement",
+      "value": "1991 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "355 bhp @ 6000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "450 Nm @ 2250 RPM"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "7 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "4WD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.5 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "235 / 40 R18"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "235 / 40 R18"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Night Black",
+      "value": "rgb(13, 13, 13)"
+    },
+    {
+      "key": "Cosmos Black",
+      "value": "rgb(33, 24, 16)"
+    },
+    {
+      "key": "Mountain Grey",
+      "value": "rgb(80, 78, 74)"
+    },
+    {
+      "key": "Jupiter Red",
+      "value": "rgb(148, 4, 0)"
+    },
+    {
+      "key": "Cirrus White",
+      "value": "rgb(255, 255, 255)"
+    }
+  ]
+}

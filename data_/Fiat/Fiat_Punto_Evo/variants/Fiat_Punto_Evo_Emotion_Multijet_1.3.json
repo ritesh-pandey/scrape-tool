@@ -1,0 +1,144 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "280 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "45 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3989 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1687 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1525 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2510 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "185 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1190 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Displacement",
+      "value": "1248 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "75 bhp @ 4000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "197 Nm @ 1750 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "21.2 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent Wheels suspension with Mcpherson struts, Helical springs, Double acting Telescopic Dampers with Stabilizer bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Torsion beam, Helical Springs and Double acting Telescopic dampers"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "195 / 60 R15"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "195 / 60 R15"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Hip hop black",
+      "value": "rgb(11, 16, 15)"
+    },
+    {
+      "key": "Tuscan Wine",
+      "value": "rgb(62, 21, 29)"
+    },
+    {
+      "key": "Magnesio Grey",
+      "value": "rgb(97, 94, 113)"
+    },
+    {
+      "key": "Exotica red",
+      "value": "rgb(130, 25, 24)"
+    },
+    {
+      "key": "Minimal Grey",
+      "value": "rgb(158, 160, 155)"
+    },
+    {
+      "key": "Glitterati Gold",
+      "value": "rgb(204, 151, 45)"
+    },
+    {
+      "key": "Pearl White",
+      "value": "rgb(236, 236, 236)"
+    }
+  ]
+}

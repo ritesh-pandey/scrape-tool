@@ -1,0 +1,497 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "4 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "2 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "1 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "125 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "68 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4545 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1852 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1269 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2457 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1430 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Flat 6 Petrol engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "3799 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "475 bhp"
+    },
+    {
+      "key": "Max Torque",
+      "value": "440 Nm @ 6250 RPM"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "6, Flat"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "7 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "Yes"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "Yes"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson Strut Suspension"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Multi-link Suspension"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electromechanical Power assisted steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.5 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "245 / 35 R20"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "295 / 30 R20"
+    }
+  ],
+  "features": [
+    {
+      "Braking & Traction": [
+        {
+          "key": "Anti-Lock Braking System",
+          "value": "Yes"
+        },
+        {
+          "key": "Electronic Brake-force Distribution",
+          "value": "Yes"
+        },
+        {
+          "key": "Brake Assist",
+          "value": "Yes"
+        },
+        {
+          "key": "Electronic Stability Program",
+          "value": "Yes"
+        },
+        {
+          "key": "Traction Control System",
+          "value": "Yes"
+        }
+      ],
+      "Comfort & Convenience": [
+        {
+          "key": "Cruise Control",
+          "value": "No"
+        },
+        {
+          "key": "Air Conditioner",
+          "value": "No"
+        },
+        {
+          "key": "Rear AC",
+          "value": "No"
+        },
+        {
+          "key": "Heater",
+          "value": "No"
+        },
+        {
+          "key": "Power Steering",
+          "value": "Yes"
+        },
+        {
+          "key": "Steering Adjustment",
+          "value": "Tilt & Telescopic"
+        },
+        {
+          "key": "Ash Tray",
+          "value": "No"
+        },
+        {
+          "key": "Keyless Start",
+          "value": "No"
+        },
+        {
+          "key": "CD Changer",
+          "value": "No"
+        },
+        {
+          "key": "Paddle Shift",
+          "value": "Yes"
+        },
+        {
+          "key": "Rear Parking Sensors",
+          "value": "No"
+        },
+        {
+          "key": "Cigarette Lighter",
+          "value": "No"
+        },
+        {
+          "key": "12V Power Outlets",
+          "value": "No"
+        }
+      ],
+      "Doors, Windows, Mirrors & Wipers": [
+        {
+          "key": "Power Windows",
+          "value": "Front Only"
+        },
+        {
+          "key": "Rear Defogger",
+          "value": "No"
+        },
+        {
+          "key": "Boot-lid Opener",
+          "value": "Internal"
+        },
+        {
+          "key": "Door Pockets",
+          "value": "No"
+        },
+        {
+          "key": "Outside Rear View Mirrors",
+          "value": "Both Sides"
+        },
+        {
+          "key": "Adjustable ORVM",
+          "value": "Internally Adjustable"
+        },
+        {
+          "key": "Turn Indicators on ORVM",
+          "value": "No"
+        },
+        {
+          "key": "Body-Coloured ORVMs",
+          "value": "Yes"
+        },
+        {
+          "key": "Rear Wiper",
+          "value": "No"
+        },
+        {
+          "key": "Rain-sensing Wipers",
+          "value": "No"
+        },
+        {
+          "key": "Headlight Washers",
+          "value": "No"
+        }
+      ],
+      "Entertainment, Information & Communication": [
+        {
+          "key": "Music Player Size",
+          "value": "Not Available"
+        },
+        {
+          "key": "Integrated (in-dash) Music System",
+          "value": "No"
+        },
+        {
+          "key": "Touch-screen Display",
+          "value": "No"
+        },
+        {
+          "key": "GPS Navigation System",
+          "value": "No"
+        },
+        {
+          "key": "AM/FM Radio",
+          "value": "No"
+        },
+        {
+          "key": "CD Player",
+          "value": "No"
+        },
+        {
+          "key": "MP3 Playback",
+          "value": "No"
+        },
+        {
+          "key": "DVD Playback",
+          "value": "No"
+        },
+        {
+          "key": "Bluetooth Compatibility",
+          "value": "No"
+        },
+        {
+          "key": "iPod Compatibility",
+          "value": "No"
+        },
+        {
+          "key": "USB Compatibility",
+          "value": "No"
+        },
+        {
+          "key": "Aux Compatibility",
+          "value": "No"
+        },
+        {
+          "key": "Speakers",
+          "value": "No"
+        }
+      ],
+      "Exterior": [
+        {
+          "key": "Sunroof / Moonroof",
+          "value": "No"
+        },
+        {
+          "key": "Body-Coloured  Bumpers",
+          "value": "Yes"
+        },
+        {
+          "key": "Roof Mounted Antenna",
+          "value": "No"
+        }
+      ],
+      "Instrumentation": [
+        {
+          "key": "Distance to Empty",
+          "value": "Yes"
+        },
+        {
+          "key": "Average Fuel Consumption",
+          "value": "Yes"
+        },
+        {
+          "key": "Average Speed",
+          "value": "Yes"
+        },
+        {
+          "key": "Clock",
+          "value": "Digital"
+        },
+        {
+          "key": "Seat Belt Warning",
+          "value": "Yes"
+        },
+        {
+          "key": "Low Fuel Level Warning",
+          "value": "Yes"
+        },
+        {
+          "key": "Door Ajar Warning",
+          "value": "Yes"
+        }
+      ],
+      "Lighting": [
+        {
+          "key": "Headlamps",
+          "value": "Projector with Xenon"
+        },
+        {
+          "key": "Automatic Head Lamps",
+          "value": "Yes"
+        },
+        {
+          "key": "Fog Lamps",
+          "value": "Front"
+        },
+        {
+          "key": "Clear lens Head Lamp",
+          "value": "Yes"
+        },
+        {
+          "key": "Daytime Running Lamps",
+          "value": "Yes"
+        },
+        {
+          "key": "LED tail lamps",
+          "value": "Yes"
+        },
+        {
+          "key": "Clear lens Tail Lamp",
+          "value": "Yes"
+        },
+        {
+          "key": "Headlight Height Adjuster",
+          "value": "Yes"
+        }
+      ],
+      "Locks & Security": [
+        {
+          "key": "Engine immobilizer",
+          "value": "Yes"
+        },
+        {
+          "key": "Central Locking",
+          "value": "Remote"
+        },
+        {
+          "key": "Child Safety Lock",
+          "value": "Yes"
+        }
+      ],
+      "Manufacturer Warranty": [
+        {
+          "key": "Warranty (Years)",
+          "value": "2"
+        },
+        {
+          "key": "Warranty (Kilometres)",
+          "value": "Unlimited"
+        }
+      ],
+      "Safety": [
+        {
+          "key": "Airbags",
+          "value": "No"
+        },
+        {
+          "key": "Dual-Stage Airbags",
+          "value": "No"
+        },
+        {
+          "key": "Middle rear three-point seatbelt",
+          "value": "No"
+        }
+      ],
+      "Seats & Upholstery": [
+        {
+          "key": "Seat Upholstery",
+          "value": "Leather"
+        },
+        {
+          "key": "Active headrest",
+          "value": "Yes"
+        },
+        {
+          "key": "Driver Height Adjustable Seat",
+          "value": "Yes"
+        },
+        {
+          "key": "Lumbar Support",
+          "value": "Driver Only"
+        },
+        {
+          "key": "Folding Rear Seat",
+          "value": "No"
+        },
+        {
+          "key": "Driver Armrest",
+          "value": "No"
+        },
+        {
+          "key": "Rear Armrest",
+          "value": "No"
+        },
+        {
+          "key": "Head-rests",
+          "value": "Front"
+        },
+        {
+          "key": "Adjustable Head-rests",
+          "value": "Front"
+        },
+        {
+          "key": "Leather-wrapped Steering Wheel",
+          "value": "Yes"
+        },
+        {
+          "key": "Front Seat Pockets",
+          "value": "No"
+        },
+        {
+          "key": "Audio Controls in Rear Armrest",
+          "value": "No"
+        }
+      ],
+      "Storage": [
+        {
+          "key": "Cup Holders",
+          "value": "No"
+        }
+      ],
+      "Wheels & Tyres": [
+        {
+          "key": "Alloy Wheels",
+          "value": "Yes"
+        },
+        {
+          "key": "Tubeless Tyres",
+          "value": "Yes"
+        }
+      ]
+    }
+  ],
+  "colors": []
+}

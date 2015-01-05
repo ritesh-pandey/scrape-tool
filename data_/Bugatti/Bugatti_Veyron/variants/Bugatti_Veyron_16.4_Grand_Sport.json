@@ -1,0 +1,63 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "2 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "2 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "100 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4462 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1998 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1204 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2710 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1968 kg"
+    }
+  ],
+  "features": [
+    null
+  ],
+  "colors": [
+    {
+      "key": "Black Carbon",
+      "value": "rgb(34, 39, 35)"
+    },
+    {
+      "key": "Titanium Grey Metallic",
+      "value": "rgb(75, 75, 75)"
+    },
+    {
+      "key": "Italian Red",
+      "value": "rgb(156, 11, 18)"
+    },
+    {
+      "key": "White Silver",
+      "value": "rgb(240, 241, 250)"
+    }
+  ]
+}

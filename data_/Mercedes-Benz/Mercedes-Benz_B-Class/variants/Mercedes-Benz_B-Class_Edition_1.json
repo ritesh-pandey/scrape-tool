@@ -1,0 +1,140 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "486 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "50 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4359 mm"
+    },
+    {
+      "key": "Width",
+      "value": "2010 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1557 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2699 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "134 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1475 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "B 180 BlueEFFICIENCY 4 cylinder inline"
+    },
+    {
+      "key": "Displacement",
+      "value": "2143 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "107 bhp @ 3200 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "250 Nm @ 1400 RPM"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "7 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson strut front axle"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "4 link rear axle"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "electromechanical rack & pinion "
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.5 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "205 / 55 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "205 / 55 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Polar Silver Metallic",
+      "value": "rgb(115, 130, 132)"
+    },
+    {
+      "key": "Jupiter Red",
+      "value": "rgb(148, 4, 0)"
+    },
+    {
+      "key": "Cirrus White",
+      "value": "rgb(255, 255, 255)"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "7 & 8 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "55 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4520 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1850 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1895 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2760 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "186 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1875 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "mHAWk"
+    },
+    {
+      "key": "Displacement",
+      "value": "2179 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "120 bhp @ 4000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "280 Nm @ 2400 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "14.02 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Double wishbone type Independent Front Suspension(IFS)"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Multi-link coil spring"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.5 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "215 / 75 R15"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "215 / 75 R15"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Fiery Black",
+      "value": "rgb(48, 48, 48)"
+    },
+    {
+      "key": "Java Brown",
+      "value": "rgb(90, 74, 69)"
+    },
+    {
+      "key": "Dolphin Grey",
+      "value": "rgb(149, 160, 174)"
+    },
+    {
+      "key": "Mist Sliver",
+      "value": "rgb(184, 184, 184)"
+    },
+    {
+      "key": "Toreador Red",
+      "value": "rgb(205, 40, 38)"
+    },
+    {
+      "key": "Diamond White",
+      "value": "rgb(255, 255, 255)"
+    }
+  ]
+}

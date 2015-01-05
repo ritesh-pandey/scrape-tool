@@ -1,0 +1,160 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "7 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "33 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3950 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1565 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1878 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2100 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "160 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1290 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "IDI"
+    },
+    {
+      "key": "Displacement",
+      "value": "1405 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "71 bhp @ 4500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "135 Nm @ 2500 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "15.42 kmpl"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "IDI"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent Suspension, strut type, Anti Roll Bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Multi Link Suspension With Coil Springs"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Power Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "4.5 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "165 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "165 R14"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Glossy Black",
+      "value": "rgb(0, 0, 0)"
+    },
+    {
+      "key": "Blazing Red",
+      "value": "rgb(131, 18, 25)"
+    },
+    {
+      "key": "Champagne Gold",
+      "value": "rgb(186, 152, 64)"
+    },
+    {
+      "key": "Meteor Silver",
+      "value": "rgb(194, 193, 199)"
+    },
+    {
+      "key": "Lunar Silver",
+      "value": "rgb(211, 198, 192)"
+    },
+    {
+      "key": "Artic White",
+      "value": "rgb(254, 254, 254)"
+    },
+    {
+      "key": "School Yellow",
+      "value": "rgb(255, 230, 0)"
+    },
+    {
+      "key": "Ivory White",
+      "value": "rgb(255, 255, 255)"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "2 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "2 Doors"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "70 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4794 mm"
+    },
+    {
+      "key": "Width",
+      "value": "2028 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1329 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2752 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "100 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1800 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Displacement",
+      "value": "5000 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "510 bhp @ 6000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "625 Nm @ 2500 RPM"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "92.5 mm x 93 mm"
+    },
+    {
+      "key": "Compression Ratio",
+      "value": "9.5:1"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "8, In V Shape"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.4 metres"
+    }
+  ],
+  "features": [
+    null
+  ],
+  "colors": []
+}

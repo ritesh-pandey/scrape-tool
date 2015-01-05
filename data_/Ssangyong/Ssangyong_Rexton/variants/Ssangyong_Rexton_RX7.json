@@ -1,0 +1,144 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "7 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "78 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4755 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1900 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1785 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2835 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "208 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1995 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "RX270 XVT"
+    },
+    {
+      "key": "Displacement",
+      "value": "2696 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "184 bhp @ 4000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "402 Nm @ 3000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "11.8 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "5, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "AWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "double wishbone front suspension with anti-roll bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "five-link rear suspension with anit-roll bar"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Speed Sensitive Power steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.7 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "235 / 75 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "235 / 75 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Volcano Black",
+      "value": "rgb(8, 8, 8)"
+    },
+    {
+      "key": "Opulent Purple",
+      "value": "rgb(59, 40, 43)"
+    },
+    {
+      "key": "Moondust Silver",
+      "value": "rgb(171, 171, 171)"
+    },
+    {
+      "key": "Satin White",
+      "value": "rgb(247, 247, 247)"
+    }
+  ]
+}

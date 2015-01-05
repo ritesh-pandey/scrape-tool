@@ -1,0 +1,196 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "4 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "2 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "315 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "80 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "5612 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1987 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1566 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "3320 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "2705 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "6.8L V12 engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "6749 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "460 bhp @ 5350 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "720 Nm @ 3500 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "6.75 kmpl"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "92 mm x 84.6 mm"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "12, In V Shape"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Double wishbone front axle"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "multi-link rear axle"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "speed sensitive variable rate power assisted steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "6.55 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "285 / 45 R21"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "285 / 45 R21"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Black",
+      "value": "rgb(0, 0, 0)"
+    },
+    {
+      "key": "Diamond Black",
+      "value": "rgb(0, 1, 5)"
+    },
+    {
+      "key": "Blue Velvet",
+      "value": "rgb(0, 5, 43)"
+    },
+    {
+      "key": "Midnight Blue",
+      "value": "rgb(0, 11, 35)"
+    },
+    {
+      "key": "Darkest Tungsten",
+      "value": "rgb(14, 34, 45)"
+    },
+    {
+      "key": "Metropolitan Blue",
+      "value": "rgb(20, 62, 102)"
+    },
+    {
+      "key": "Madeira Red",
+      "value": "rgb(46, 0, 2)"
+    },
+    {
+      "key": "New sable",
+      "value": "rgb(69, 54, 59)"
+    },
+    {
+      "key": "Anthracite",
+      "value": "rgb(74, 75, 80)"
+    },
+    {
+      "key": "Woodland Green",
+      "value": "rgb(122, 118, 106)"
+    },
+    {
+      "key": "Ensign Red",
+      "value": "rgb(135, 12, 32)"
+    },
+    {
+      "key": "Jubliee Silver",
+      "value": "rgb(144, 143, 151)"
+    },
+    {
+      "key": "Silver",
+      "value": "rgb(218, 218, 220)"
+    },
+    {
+      "key": "Cornish White",
+      "value": "rgb(230, 220, 195)"
+    },
+    {
+      "key": "Arctic White",
+      "value": "rgb(240, 241, 243)"
+    },
+    {
+      "key": "English White",
+      "value": "rgb(242, 244, 231)"
+    }
+  ]
+}

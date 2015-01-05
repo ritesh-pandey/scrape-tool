@@ -1,0 +1,148 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "7 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "55 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4585 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1765 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1760 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2750 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "176 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1675 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "2KD-FTV, Diesel with Turbocharger, 4 Inline Cylinder"
+    },
+    {
+      "key": "Displacement",
+      "value": "2494 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "100 bhp @ 3600 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "200 Nm @ 1400 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "13.7 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "double wishbone front axle"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "four link with lateral rod"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Power Steering with Tilt"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.4 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "205 / 65 R15"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "205 / 65 R15"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Bronze Mica Metallic",
+      "value": "rgb(104, 97, 87)"
+    },
+    {
+      "key": "Silver Mica Metalic",
+      "value": "rgb(162, 167, 171)"
+    }
+  ]
+}

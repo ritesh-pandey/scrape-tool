@@ -1,0 +1,128 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "2 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "2 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "1 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "90 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4780 mm"
+    },
+    {
+      "key": "Width",
+      "value": "2030 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1136 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2700 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1625 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "V12 MPI petrol engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "6498 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "700 bhp @ 8250 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "690 Nm @ 5500 RPM"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "95 mm x 76.4 mm"
+    },
+    {
+      "key": "Compression Ratio",
+      "value": "11.8:1"
+    },
+    {
+      "key": "Cylinders",
+      "value": "12, In V Shape"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "7 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "AWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Horizontal monotube damper with push rod system"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Horizontal monotube damper with push rod system"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Servotronic steering system"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "255 / 35 R19"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "335 / 30 R20"
+    }
+  ],
+  "colors": [
+    {
+      "key": "White",
+      "value": "rgb(232, 232, 232)"
+    },
+    {
+      "key": "Arancio Argos (Orange)",
+      "value": "rgb(240, 84, 35)"
+    }
+  ]
+}

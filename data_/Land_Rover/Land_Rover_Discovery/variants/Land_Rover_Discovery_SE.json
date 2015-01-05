@@ -1,0 +1,107 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "7 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4838 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1915 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1837 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2885 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "2583 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "V6 TurboDiesel Engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "2993 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "245 bhp @ 4000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "600 Nm @ 2000 RPM"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "6, In V Shape"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "AWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Electronic air suspension"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Electronic air suspension"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "hydraulic power assisted"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.9 metres"
+    }
+  ],
+  "colors": []
+}

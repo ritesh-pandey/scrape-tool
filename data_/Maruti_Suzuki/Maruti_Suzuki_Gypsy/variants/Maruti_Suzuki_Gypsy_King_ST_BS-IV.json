@@ -1,0 +1,144 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "8 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "3 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "40 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4010 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1540 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1845 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2375 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "210 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "985 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "G13BB"
+    },
+    {
+      "key": "Displacement",
+      "value": "1298 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "80 bhp @ 6000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "103 Nm @ 4500 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "11.96 kmpl"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, SOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "4WD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Rear Leaf spring with Double action damper"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Rear Leaf spring with Double action damper"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Rack & Pinion"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "205 / 70 R15"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "205 / 70 R15"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Dolphin Blue",
+      "value": "rgb(41, 69, 81)"
+    },
+    {
+      "key": "Harvest Green",
+      "value": "rgb(87, 117, 47)"
+    },
+    {
+      "key": "Silky Silver",
+      "value": "rgb(200, 204, 208)"
+    },
+    {
+      "key": "Superior White",
+      "value": "rgb(218, 218, 218)"
+    },
+    {
+      "key": "Ruby Red",
+      "value": "rgb(244, 56, 41)"
+    }
+  ]
+}

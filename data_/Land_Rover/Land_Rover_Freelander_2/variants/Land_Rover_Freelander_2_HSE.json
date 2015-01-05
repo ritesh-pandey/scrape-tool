@@ -1,0 +1,132 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4500 mm"
+    },
+    {
+      "key": "Width",
+      "value": "2195 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1740 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2660 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1805 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "4 cylinder inline diesel engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "2179 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "187 bhp @ 3500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "420 Nm @ 1750 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "12.39 kmpl"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "AWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electric variable type - speed proportional"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "235 / 65 R17"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "235 / 65 R17"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Santorini Black",
+      "value": "rgb(16, 16, 16)"
+    },
+    {
+      "key": "Baltic Blue",
+      "value": "rgb(32, 57, 87)"
+    },
+    {
+      "key": "Orkney Grey",
+      "value": "rgb(129, 134, 137)"
+    },
+    {
+      "key": "Firenze Red",
+      "value": "rgb(176, 57, 49)"
+    },
+    {
+      "key": "Indus Silver",
+      "value": "rgb(194, 198, 207)"
+    },
+    {
+      "key": "Fuji White",
+      "value": "rgb(233, 233, 233)"
+    }
+  ]
+}

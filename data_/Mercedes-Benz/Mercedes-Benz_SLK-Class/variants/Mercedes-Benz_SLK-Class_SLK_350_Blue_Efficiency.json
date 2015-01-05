@@ -1,0 +1,123 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "2 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "2 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "1 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "335 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "60 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4134 mm"
+    },
+    {
+      "key": "Width",
+      "value": "2006 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1301 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2430 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1540 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "V6 Petrol engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "3498 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "306 bhp @ 6500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "370 Nm @ 3500 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "11.11 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "6, In V Shape"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "7 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "Yes"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "Yes"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "direct steer system"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.26 metres"
+    }
+  ],
+  "colors": []
+}

@@ -1,0 +1,160 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "460 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "55 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4386 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1699 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1466 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2552 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "168 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1180 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "4 cylinder inline petrol engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "1598 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "103 bhp @ 5250 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "153 Nm @ 3800 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "14.3 kmpl"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson suspension with lower triangular links and torsion stabilizer"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "compound link crank-axle"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electromechanical Power Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.3 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "185 / 60 R15"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "185 / 60 R15"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Deep Black Pearl",
+      "value": "rgb(1, 1, 1)"
+    },
+    {
+      "key": "Flash Red",
+      "value": "rgb(150, 0, 2)"
+    },
+    {
+      "key": "Brilliant Silver",
+      "value": "rgb(154, 182, 185)"
+    },
+    {
+      "key": "Cappuccino Beige",
+      "value": "rgb(202, 194, 186)"
+    },
+    {
+      "key": "Candy White",
+      "value": "rgb(213, 229, 228)"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "2 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "2 Doors"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3340 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1397 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1105 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2235 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "515 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "1.4 K-Series Engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "1396 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "104.55 bhp @ 6000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "128 Nm @ 5000 RPM"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Adjustable double wishbone with anti roll bar."
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "de Dion axle located by lower A-frame and upper radius arm."
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Rack and pinion"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "185 / 60 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "185 / 60 R14"
+    }
+  ],
+  "features": [
+    null
+  ],
+  "colors": []
+}

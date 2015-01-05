@@ -1,0 +1,148 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "4 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "80 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "32 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3099 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1495 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1652 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2230 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "180 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "745 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "4 Stroke, water-cooled, multipoint injection system 2 cylinders in-line"
+    },
+    {
+      "key": "Displacement",
+      "value": "624 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "CNG"
+    },
+    {
+      "key": "Max Power",
+      "value": "33 bhp @ 5500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "45 Nm @ 3500 RPM"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Petrol"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "2, SOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "2, In V Shape"
+    },
+    {
+      "key": "Fuel System",
+      "value": "MPFI"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "4 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent, Lower Wishbone, McPherson Strut with gas filled dampers and anti-roll bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Independent, Semi Trailing arm with coil spring & gas filled shock absorbers"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "4 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "135 / 70 R12"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "155 / 65 R12"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Damson Purple",
+      "value": "rgb(101, 54, 149)"
+    },
+    {
+      "key": "Pearl White",
+      "value": "rgb(224, 226, 225)"
+    }
+  ]
+}

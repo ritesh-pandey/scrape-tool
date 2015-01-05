@@ -1,0 +1,152 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "215 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "32 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3515 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1500 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1510 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2380 mm"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "1.0L Kappa"
+    },
+    {
+      "key": "Displacement",
+      "value": "998 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "68 bhp @ 6200 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "94 Nm @ 3500 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "20.3 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "3, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson Strut"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Torsion Beam Axle"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "155 / 70 R15"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "155 / 70 R15"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Pristine Blue",
+      "value": "rgb(27, 61, 142)"
+    },
+    {
+      "key": "Maharajah Red",
+      "value": "rgb(111, 7, 26)"
+    },
+    {
+      "key": "Ember Grey",
+      "value": "rgb(151, 142, 135)"
+    },
+    {
+      "key": "Sleek Silver",
+      "value": "rgb(174, 175, 171)"
+    },
+    {
+      "key": "Mushroom",
+      "value": "rgb(175, 170, 156)"
+    },
+    {
+      "key": "Coral White",
+      "value": "rgb(255, 255, 255)"
+    }
+  ]
+}

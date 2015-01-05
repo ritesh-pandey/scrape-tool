@@ -1,0 +1,176 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "2 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "2 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "1 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "64 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4380 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1801 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1294 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2475 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1385 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Flat 6 Petrol engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "2706 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "275 bhp @ 7400 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "290 Nm @ 6500 RPM"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "6, Flat"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electromechanical Power assisted steering"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "235 / 40 R18"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "265 / 40 R18"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Black",
+      "value": "rgb(0, 0, 0)"
+    },
+    {
+      "key": "Basalt Black",
+      "value": "rgb(1, 4, 9)"
+    },
+    {
+      "key": "Forest Green",
+      "value": "rgb(1, 60, 6)"
+    },
+    {
+      "key": "Midnight Blue",
+      "value": "rgb(3, 34, 65)"
+    },
+    {
+      "key": "Park Olive",
+      "value": "rgb(6, 16, 5)"
+    },
+    {
+      "key": "Cobalt Blue",
+      "value": "rgb(20, 84, 146)"
+    },
+    {
+      "key": "Atlas Grey",
+      "value": "rgb(25, 42, 52)"
+    },
+    {
+      "key": "Slate Gray",
+      "value": "rgb(56, 60, 61)"
+    },
+    {
+      "key": "Macadamia",
+      "value": "rgb(64, 50, 39)"
+    },
+    {
+      "key": "Malachite Green",
+      "value": "rgb(74, 139, 109)"
+    },
+    {
+      "key": "Meteor Grey",
+      "value": "rgb(116, 115, 120)"
+    },
+    {
+      "key": "Ruby Red",
+      "value": "rgb(161, 0, 18)"
+    },
+    {
+      "key": "Gt Silver",
+      "value": "rgb(204, 204, 204)"
+    },
+    {
+      "key": "Guards Red",
+      "value": "rgb(206, 16, 16)"
+    },
+    {
+      "key": "Arctic Silver",
+      "value": "rgb(216, 221, 227)"
+    },
+    {
+      "key": "Speed Yellow",
+      "value": "rgb(255, 182, 15)"
+    },
+    {
+      "key": "Carrara White",
+      "value": "rgb(255, 247, 248)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "href": "http://www.carwale.com/bentley-cars/continentalflyingspur/",
+    "name": "Bentley Continental Flying Spur"
+  },
+  {
+    "href": "http://www.carwale.com/bentley-cars/continentalgt/",
+    "name": "Bentley Continental GT"
+  },
+  {
+    "href": "http://www.carwale.com/bentley-cars/continentalgtc/",
+    "name": "Bentley Continental GTC"
+  },
+  {
+    "href": "http://www.carwale.com/bentley-cars/mulsanne/",
+    "name": "Bentley Mulsanne"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bentley-cars/arnage/",
+    "name": "Bentley Arnage"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/bentley-cars/azure/",
+    "name": "Bentley Azure"
+  }
+]

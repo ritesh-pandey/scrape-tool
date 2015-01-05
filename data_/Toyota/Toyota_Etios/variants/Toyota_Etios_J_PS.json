@@ -1,0 +1,172 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "595 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "45 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4265 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1695 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1510 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2550 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "174 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "920 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "4-Cylinder 16V, DOHC"
+    },
+    {
+      "key": "Displacement",
+      "value": "1496 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "88 bhp @ 5600 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "132 Nm @ 3000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "16.78 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "Electronic Fuel Injection(EFI)"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "MacPherson Strut"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Torsion Beam"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "4.9 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "185 / 60 R15"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "185 / 60 R15"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Celestial Black",
+      "value": "rgb(24, 28, 27)"
+    },
+    {
+      "key": "Classic Grey",
+      "value": "rgb(67, 80, 89)"
+    },
+    {
+      "key": "Harmony Beige",
+      "value": "rgb(120, 107, 91)"
+    },
+    {
+      "key": "Vermilion Red",
+      "value": "rgb(168, 39, 44)"
+    },
+    {
+      "key": "Symphony Silver",
+      "value": "rgb(216, 220, 223)"
+    },
+    {
+      "key": "White",
+      "value": "rgb(241, 245, 246)"
+    },
+    {
+      "key": "New Pearl White",
+      "value": "rgb(254, 254, 254)"
+    }
+  ]
+}

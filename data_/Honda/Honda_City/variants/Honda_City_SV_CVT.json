@@ -1,0 +1,164 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "510 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "40 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4440 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1695 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1495 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2600 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "165 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1065 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Displacement",
+      "value": "1497 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "117 bhp @ 6600 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "145 Nm @ 4600 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "18 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, SOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic (CVT)"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson strut with stabilizer,coil spring"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Torsion beam axle with stabilizer, coil spring"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Collapsible Electric Power Assisted"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.3 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "175 / 65 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "175 / 65 R14"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Crystal Black Pearl",
+      "value": "rgb(3, 4, 4)"
+    },
+    {
+      "key": "Golden Brown Metallic",
+      "value": "rgb(26, 21, 21)"
+    },
+    {
+      "key": "Urban Titanium Metallic",
+      "value": "rgb(40, 42, 46)"
+    },
+    {
+      "key": "Alabaster Silver Metallic",
+      "value": "rgb(55, 70, 71)"
+    },
+    {
+      "key": "Carnelian Red Pearl",
+      "value": "rgb(69, 4, 14)"
+    },
+    {
+      "key": "Taffeta White",
+      "value": "rgb(177, 191, 180)"
+    }
+  ]
+}

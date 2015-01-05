@@ -1,0 +1,164 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "256 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "43 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3765 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1660 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1520 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2425 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "165 mm"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "1.2 Kappa Dual VTVT Petrol"
+    },
+    {
+      "key": "Displacement",
+      "value": "1197 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "81 bhp @ 6000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "114 Nm @ 4000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "18.9 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson Strut"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Coupled Torsion Beam Axle"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "165 / 65 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "165 / 65 R14"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Panthom BLack",
+      "value": "rgb(49, 64, 43)"
+    },
+    {
+      "key": "Twilight Blue",
+      "value": "rgb(57, 61, 72)"
+    },
+    {
+      "key": "StarDust",
+      "value": "rgb(80, 90, 81)"
+    },
+    {
+      "key": "Wine Red",
+      "value": "rgb(98, 28, 28)"
+    },
+    {
+      "key": "Sleek Silver",
+      "value": "rgb(175, 178, 169)"
+    },
+    {
+      "key": "Silky Beige",
+      "value": "rgb(184, 185, 153)"
+    },
+    {
+      "key": "Pure White",
+      "value": "rgb(225, 215, 203)"
+    },
+    {
+      "key": "Golden Orange",
+      "value": "rgb(227, 146, 57)"
+    }
+  ]
+}

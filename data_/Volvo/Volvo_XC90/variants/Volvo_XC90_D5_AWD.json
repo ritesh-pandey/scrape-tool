@@ -1,0 +1,160 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "7 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "530 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "68 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4807 mm"
+    },
+    {
+      "key": "Width",
+      "value": "2112 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1784 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2857 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "218 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "2208 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "In-line 5 Cylinder TwinTurbo diesel"
+    },
+    {
+      "key": "Displacement",
+      "value": "2400 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "200 bhp @ 3900 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "420 Nm @ 2800 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "14.7 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "81 mm x 93.15 mm"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "5, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "AWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "MacPherson Strut, Coil Springs, Hydraulic Shock Absorbers, Stabilizer Bar "
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Independent Suspension with Coil Springs, Hydraulic Shock Absorbers, Stabilizer Bar "
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Speed dependant and progressive power steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "6.35 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "235 / 65 R17"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "235 / 65 R17"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Ember Black",
+      "value": "rgb(22, 23, 25)"
+    },
+    {
+      "key": "Caspian Blue Metallic",
+      "value": "rgb(44, 51, 57)"
+    },
+    {
+      "key": "Twilight Bronze",
+      "value": "rgb(50, 36, 36)"
+    },
+    {
+      "key": "Electric Silver",
+      "value": "rgb(104, 108, 108)"
+    },
+    {
+      "key": "Ice White",
+      "value": "rgb(220, 222, 221)"
+    }
+  ]
+}

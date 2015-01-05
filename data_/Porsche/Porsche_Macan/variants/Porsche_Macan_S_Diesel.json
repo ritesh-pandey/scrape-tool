@@ -1,0 +1,111 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "60 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4681 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1923 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1624 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2807 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1880 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Displacement",
+      "value": "2967 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "245 bhp @ 4000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "580 Nm @ 1750 RPM"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "6, In V Shape"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "AWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Fully independent double wishbone suspension"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Fully independent multi-link suspension"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Power-assisted, electromechanical"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "235 / 60 R18"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "255 / 55 R18"
+    }
+  ],
+  "colors": []
+}

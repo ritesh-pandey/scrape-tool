@@ -1,0 +1,164 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "4 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "520 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "80 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4940 mm"
+    },
+    {
+      "key": "Width",
+      "value": "2075 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1416 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2874 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1735 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "V6 Petrol engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "3498 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "306 bhp @ 6500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "370 Nm @ 5250 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "9.26 kmpl"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "6, In V Shape"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "7 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "AIRMATIC air suspension"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "AIRMATIC air suspension"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "electromechanical direct steering wheel"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.635 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "245 / 45 R18"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "245 / 45 R18"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Obsidian Black",
+      "value": "rgb(13, 13, 13)"
+    },
+    {
+      "key": "Cuprite Brown",
+      "value": "rgb(36, 0, 18)"
+    },
+    {
+      "key": "Tenorite grey",
+      "value": "rgb(61, 67, 74)"
+    },
+    {
+      "key": "Thulite Red",
+      "value": "rgb(99, 13, 29)"
+    },
+    {
+      "key": "Silver Diamond",
+      "value": "rgb(135, 149, 158)"
+    },
+    {
+      "key": "Palladium Silver",
+      "value": "rgb(149, 153, 154)"
+    },
+    {
+      "key": "Pearl Beige",
+      "value": "rgb(187, 169, 138)"
+    },
+    {
+      "key": "Iridium Silver",
+      "value": "rgb(200, 200, 200)"
+    },
+    {
+      "key": "Diamond white",
+      "value": "rgb(239, 231, 204)"
+    }
+  ]
+}

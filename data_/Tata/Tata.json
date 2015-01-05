@@ -1,0 +1,177 @@
+[
+  {
+    "href": "http://www.carwale.com/tata-cars/nano/",
+    "name": "Tata Nano"
+  },
+  {
+    "href": "http://www.carwale.com/tata-cars/indicaev2/",
+    "name": "Tata Indica eV2"
+  },
+  {
+    "href": "http://www.carwale.com/tata-cars/indicav2/",
+    "name": "Tata Indica V2"
+  },
+  {
+    "href": "http://www.carwale.com/tata-cars/zest/",
+    "name": "Tata Zest"
+  },
+  {
+    "href": "http://www.carwale.com/tata-cars/venture/",
+    "name": "Tata Venture"
+  },
+  {
+    "href": "http://www.carwale.com/tata-cars/vistatech/",
+    "name": "Tata Vista Tech"
+  },
+  {
+    "href": "http://www.carwale.com/tata-cars/indigoecs/",
+    "name": "Tata Indigo eCS"
+  },
+  {
+    "href": "http://www.carwale.com/tata-cars/sumo-gold/",
+    "name": "Tata Sumo Gold"
+  },
+  {
+    "href": "http://www.carwale.com/tata-cars/manza/",
+    "name": "Tata Manza"
+  },
+  {
+    "href": "http://www.carwale.com/tata-cars/winger/",
+    "name": "Tata Winger"
+  },
+  {
+    "href": "http://www.carwale.com/tata-cars/movus/",
+    "name": "Tata Movus"
+  },
+  {
+    "href": "http://www.carwale.com/tata-cars/safari/",
+    "name": "Tata Safari"
+  },
+  {
+    "href": "http://www.carwale.com/tata-cars/xenonxt/",
+    "name": "Tata Xenon XT"
+  },
+  {
+    "href": "http://www.carwale.com/tata-cars/safaristorme/",
+    "name": "Tata Safari Storme"
+  },
+  {
+    "href": "http://www.carwale.com/tata-cars/aria/",
+    "name": "Tata Aria"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/aria-2010-2014/",
+    "name": "Tata Aria [2010-2014]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/indica19992001/",
+    "name": "Tata Indica [1999-2001]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/indica-ev2-2011-2013/",
+    "name": "Tata Indica eV2 [2011-2013]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/indica-v2-2003-2006/",
+    "name": "Tata Indica V2 [2003-2006]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/indica-v2-2006-2013/",
+    "name": "Tata Indica V2 [2006-2013]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/indica-vista-2008-2011/",
+    "name": "Tata Indica Vista [2008-2011]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/indigo-2002-2005/",
+    "name": "Tata Indigo [2002-2005]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/indigo-2005-2009/",
+    "name": "Tata Indigo [2005-2009]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/indigocs20082011/",
+    "name": "Tata Indigo CS [2008-2011]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/indigo-ecs-2010-2013/",
+    "name": "Tata Indigo eCS [2010-2013]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/indigomarina20042010/",
+    "name": "Tata Indigo Marina [2004-2010]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/indigoxl20072011/",
+    "name": "Tata Indigo XL [2007-2011]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/manza-2009-2011/",
+    "name": "Tata Manza [2009-2011]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/nano-2009-2011/",
+    "name": "Tata Nano [2009-2011]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/nano-2011-2013/",
+    "name": "Tata Nano [2011-2013]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/safari-1998-2005/",
+    "name": "Tata Safari [1998-2005]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/safari-2005-2007/",
+    "name": "Tata Safari [2005-2007]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/sumo-gold-2011-2013/",
+    "name": "Tata Sumo Gold [2011-2013]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/sumo-grande-2008-2009/",
+    "name": "Tata Sumo Grande [2008-2009]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/sumo-spacio-2000-2006/",
+    "name": "Tata Sumo Spacio [2000-2006]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/sumo-victa-2004-2011/",
+    "name": "Tata Sumo Victa [2004-2011]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/indica-vista-2012-2014/",
+    "name": "Tata Indica Vista [2012-2014]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/tata-cars/sumo-grande-mk-ii-2009-2014/",
+    "name": "Tata Sumo Grande MK II [2009-2014]"
+  }
+]

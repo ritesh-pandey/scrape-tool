@@ -1,0 +1,148 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "8 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "36 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3370 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1410 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1640 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "1840 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "165 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "800 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "4 stroke cycle, Water cooled"
+    },
+    {
+      "key": "Displacement",
+      "value": "796 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "33 bhp @ 5000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "57 Nm @ 2500 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "14.7 kmpl"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "2"
+    },
+    {
+      "key": "Cylinders",
+      "value": "3, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "4 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson Strut"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Leaf spring with Shock absorbers"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Recirculating ball and nut"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "4.1 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "145 R12"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "145 R12"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Caribbean Blue Metallic",
+      "value": "rgb(31, 88, 157)"
+    },
+    {
+      "key": "Icy Blue Metallic",
+      "value": "rgb(108, 132, 152)"
+    },
+    {
+      "key": "Silky Silver Metallic",
+      "value": "rgb(171, 177, 182)"
+    },
+    {
+      "key": "Superior White",
+      "value": "rgb(217, 219, 221)"
+    },
+    {
+      "key": "Bright Red",
+      "value": "rgb(255, 0, 0)"
+    }
+  ]
+}

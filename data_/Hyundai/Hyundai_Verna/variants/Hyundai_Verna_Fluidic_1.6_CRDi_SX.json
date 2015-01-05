@@ -1,0 +1,168 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "465 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "43 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4370 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1700 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1475 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2570 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "170 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1171 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Displacement",
+      "value": "1582 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "126 bhp @ 4000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "260 Nm @ 1900 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "22.32 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "77.2 mm x 84.5 mm"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "MacPherson struts with coil spring"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Couple torsion beam axle"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Rack and pinion with  power steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.2 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "195 / 55 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "195 / 55 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Phantom Black",
+      "value": "rgb(50, 40, 38)"
+    },
+    {
+      "key": "Crabon Grey",
+      "value": "rgb(67, 66, 60)"
+    },
+    {
+      "key": "Purple Fantasia",
+      "value": "rgb(92, 55, 73)"
+    },
+    {
+      "key": "Sleek Silver",
+      "value": "rgb(205, 205, 207)"
+    },
+    {
+      "key": "Stone  Beige",
+      "value": "rgb(215, 199, 184)"
+    },
+    {
+      "key": "Crystal White",
+      "value": "rgb(242, 243, 248)"
+    }
+  ]
+}

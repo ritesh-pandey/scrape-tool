@@ -1,0 +1,164 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "2 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "2 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "1 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "200 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "72 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4470 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1923 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1297 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2622 mm"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Displacement",
+      "value": "5000 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "542 bhp @ 6500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "680 Nm @ 2500 RPM"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "8, In V Shape"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "8 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "Yes"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "255 / 35 R20"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "295 / 30 R20"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Ultimate Black Metallic",
+      "value": "rgb(10, 10, 10)"
+    },
+    {
+      "key": "Indigo Blue Metallic",
+      "value": "rgb(15, 49, 97)"
+    },
+    {
+      "key": "Ebony Black",
+      "value": "rgb(18, 22, 20)"
+    },
+    {
+      "key": "British Racing Green Metallic",
+      "value": "rgb(20, 89, 61)"
+    },
+    {
+      "key": "Black Amethyst Metallic",
+      "value": "rgb(39, 36, 43)"
+    },
+    {
+      "key": "Stratus Grey Metallic",
+      "value": "rgb(45, 50, 53)"
+    },
+    {
+      "key": "Satellite Grey Metallic",
+      "value": "rgb(58, 61, 66)"
+    },
+    {
+      "key": "Lunar Grey Metallic",
+      "value": "rgb(108, 112, 115)"
+    },
+    {
+      "key": "Italian Racing Red Metallic",
+      "value": "rgb(135, 0, 15)"
+    },
+    {
+      "key": "Firesand Metallic",
+      "value": "rgb(166, 53, 13)"
+    },
+    {
+      "key": "Polaris White",
+      "value": "rgb(209, 214, 210)"
+    },
+    {
+      "key": "Rhodium Silver Metallic",
+      "value": "rgb(227, 232, 238)"
+    },
+    {
+      "key": "Salsa Red",
+      "value": "rgb(228, 2, 3)"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "225 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "35 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3585 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1595 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1550 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2380 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "165 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "890 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "4 cylinder inline petrol engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "1086 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "68 bhp @ 5500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "99.08 Nm @ 4500 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "19.81 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "3, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson strut with coil spring & anti-roll bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Coupled torsion beam axle with coil spring"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electric power steering"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "155 / 80 R13"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "155 / 80 R13"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Phantom Black",
+      "value": "rgb(0, 0, 0)"
+    },
+    {
+      "key": "Carbon Grey",
+      "value": "rgb(98, 98, 106)"
+    },
+    {
+      "key": "Garnet Red",
+      "value": "rgb(110, 9, 13)"
+    },
+    {
+      "key": "Electric Red",
+      "value": "rgb(172, 16, 21)"
+    },
+    {
+      "key": "Sleek Silver",
+      "value": "rgb(203, 201, 203)"
+    },
+    {
+      "key": "Ice Silver",
+      "value": "rgb(209, 217, 230)"
+    },
+    {
+      "key": "Stone Beige",
+      "value": "rgb(232, 226, 214)"
+    },
+    {
+      "key": "Crystal White",
+      "value": "rgb(255, 255, 255)"
+    }
+  ]
+}

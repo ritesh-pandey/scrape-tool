@@ -1,0 +1,212 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "4 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "2 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "1 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "125 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "68 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4491 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1852 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1294 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2450 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1590 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Flat 6 Petrol engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "3800 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "400 bhp @ 7400 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "440 Nm @ 5600 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "10 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Compression Ratio",
+      "value": "12.5:1"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "6, Flat"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "7 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "Yes"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "Yes"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "AWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson Strut Suspension"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Multi-link Suspension"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electromechanical Power assisted steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.5 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "245 / 35 R20"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "295 / 30 R20"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Black",
+      "value": "rgb(0, 0, 0)"
+    },
+    {
+      "key": "Basalt Black",
+      "value": "rgb(1, 4, 9)"
+    },
+    {
+      "key": "Forest Green",
+      "value": "rgb(1, 60, 6)"
+    },
+    {
+      "key": "Midnight Blue",
+      "value": "rgb(3, 34, 65)"
+    },
+    {
+      "key": "Dark Olive",
+      "value": "rgb(6, 16, 5)"
+    },
+    {
+      "key": "Cobalt Blue",
+      "value": "rgb(20, 84, 146)"
+    },
+    {
+      "key": "Atlas Grey",
+      "value": "rgb(25, 42, 52)"
+    },
+    {
+      "key": "SlateGray",
+      "value": "rgb(56, 60, 61)"
+    },
+    {
+      "key": "Macadamia",
+      "value": "rgb(64, 50, 39)"
+    },
+    {
+      "key": "Malachite Green",
+      "value": "rgb(74, 139, 109)"
+    },
+    {
+      "key": "Meteor Grey",
+      "value": "rgb(116, 115, 120)"
+    },
+    {
+      "key": "Ruby Red",
+      "value": "rgb(161, 0, 18)"
+    },
+    {
+      "key": "Gt Silver",
+      "value": "rgb(204, 204, 204)"
+    },
+    {
+      "key": "Guards Red",
+      "value": "rgb(206, 16, 16)"
+    },
+    {
+      "key": "Arctic Silver",
+      "value": "rgb(216, 221, 227)"
+    },
+    {
+      "key": "Speed Yellow",
+      "value": "rgb(255, 182, 15)"
+    },
+    {
+      "key": "Carrara White",
+      "value": "rgb(255, 247, 248)"
+    }
+  ]
+}

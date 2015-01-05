@@ -1,0 +1,144 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "7 & 9 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "65 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4258 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1700 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1925 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2425 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "182 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1820 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "4SP TCIC Engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "2956 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "84 bhp @ 3000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "250 Nm @ 1000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "14.7 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "Common Rail"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Double wishbone type with coil springs & antiroll bar"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Power Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "185 / 85 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "185 / 85 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Twilight Grey",
+      "value": "rgb(30, 44, 47)"
+    },
+    {
+      "key": "Blazing Red",
+      "value": "rgb(131, 18, 25)"
+    },
+    {
+      "key": "Porcelain White",
+      "value": "rgb(225, 225, 225)"
+    },
+    {
+      "key": "Artic Silver",
+      "value": "rgb(237, 236, 236)"
+    }
+  ]
+}

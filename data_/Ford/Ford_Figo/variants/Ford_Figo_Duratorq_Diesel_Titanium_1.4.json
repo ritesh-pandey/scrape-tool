@@ -1,0 +1,180 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "284 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "45 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3795 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1680 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1427 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2489 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "168 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1130 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "8 V DOHC"
+    },
+    {
+      "key": "Displacement",
+      "value": "1399 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "68 bhp @ 4000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "160 Nm @ 2000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "20 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "2, SOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "Common Rail"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent McPherson strut with dual path mounts"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Semi-Independent twist beam, Coil springs"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Hydraulic Power Steering with Tilt"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "4.9 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "175 / 65 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "175 / 65 R14"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Kinetic Blue",
+      "value": "rgb(2, 58, 115)"
+    },
+    {
+      "key": "Panther Black",
+      "value": "rgb(17, 18, 13)"
+    },
+    {
+      "key": "Sea Grey",
+      "value": "rgb(81, 88, 94)"
+    },
+    {
+      "key": "Moondust Silver",
+      "value": "rgb(99, 101, 116)"
+    },
+    {
+      "key": "Chill Metallic",
+      "value": "rgb(173, 168, 162)"
+    },
+    {
+      "key": "Colorada Red",
+      "value": "rgb(218, 32, 32)"
+    },
+    {
+      "key": "Bright Yellow",
+      "value": "rgb(221, 201, 66)"
+    },
+    {
+      "key": "Diamond White",
+      "value": "rgb(234, 236, 226)"
+    }
+  ]
+}

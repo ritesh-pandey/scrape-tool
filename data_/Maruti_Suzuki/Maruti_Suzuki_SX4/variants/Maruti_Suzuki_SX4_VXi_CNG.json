@@ -1,0 +1,172 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "505 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "65 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4500 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1735 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1550 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2500 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "170 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1275 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "16V DOHC VVT"
+    },
+    {
+      "key": "Displacement",
+      "value": "1586 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "CNG"
+    },
+    {
+      "key": "Max Power",
+      "value": "86 bhp @ 5600 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "122 Nm @ 4000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "22.1 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Petrol"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "78 mm x 83 mm"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent suspension with gas-filled McPherson strut & anti-roll bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Semi independent torsion beam with gas filled shock absorbers"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electronic Power Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.3 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "195 / 65 R15"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "195 / 65 R15"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Granite Grey",
+      "value": "rgb(47, 53, 57)"
+    },
+    {
+      "key": "Serene Blue",
+      "value": "rgb(92, 113, 140)"
+    },
+    {
+      "key": "Glistening Grey",
+      "value": "rgb(117, 127, 136)"
+    },
+    {
+      "key": "Clear Beige",
+      "value": "rgb(133, 121, 106)"
+    },
+    {
+      "key": "Silky Silver",
+      "value": "rgb(165, 172, 182)"
+    },
+    {
+      "key": "Pearl Arctic White",
+      "value": "rgb(227, 227, 228)"
+    }
+  ]
+}

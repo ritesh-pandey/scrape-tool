@@ -1,0 +1,160 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "70 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4627 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1891 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1713 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2774 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "230 mm"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Five-cylinder turbodiesel"
+    },
+    {
+      "key": "Displacement",
+      "value": "1984 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "163 bhp @ 3500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "400 Nm @ 1500 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "14.7 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "81 mm x 93.2 mm"
+    },
+    {
+      "key": "Compression Ratio",
+      "value": "16.5:1"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "5, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "Yes"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "MacPherson Strut, Coil Springs, Hydraulic Shock Absorbers, Stabilizer Bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Independent Suspension with Coil Springs, Hydraulic Shock Absorbers, Stabilizer Bar"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Power Assisted Rack and Pinion Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.8 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "235 / 65 R17"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "235 / 65 R17"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Black Sapphire Metallic",
+      "value": "rgb(40, 44, 53)"
+    },
+    {
+      "key": "Rich Java",
+      "value": "rgb(144, 103, 88)"
+    },
+    {
+      "key": "Bright Silver Metallic",
+      "value": "rgb(184, 188, 191)"
+    },
+    {
+      "key": "Crystal White Pearl",
+      "value": "rgb(244, 248, 251)"
+    }
+  ]
+}

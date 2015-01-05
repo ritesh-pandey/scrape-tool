@@ -1,0 +1,160 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "70 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4825 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1825 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1480 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2775 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "160 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1475 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "4 cylinder petrol engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "2494 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "179 bhp @ 6000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "233 Nm @ 4100 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "12.98 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "90 mm x 98 mm"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "Yes"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson strut with stabilizer front axle"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Dual link with stabilizer bar"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Tilt & Telescopic Power Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.7 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "215 / 60 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "215 / 60 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Attitude Black",
+      "value": "rgb(16, 28, 24)"
+    },
+    {
+      "key": "Silver Metallic",
+      "value": "rgb(148, 158, 165)"
+    },
+    {
+      "key": "Beige Metallic",
+      "value": "rgb(181, 170, 165)"
+    },
+    {
+      "key": "White Pearl Crystal Shine",
+      "value": "rgb(239, 239, 239)"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "35 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3565 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1525 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1590 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2380 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "172 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "854 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Hyundai epsilon engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "1086 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "LPG"
+    },
+    {
+      "key": "Max Power",
+      "value": "62 bhp @ 5500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "96 Nm @ 3000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "17.92 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Petrol"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "3, SOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson strut with coil spring & anti-roll bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "torsion beam axle with coil spring"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electric power steering"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "155 / 70 R13"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "155 / 70 R13"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Twilight Blue",
+      "value": "rgb(56, 71, 90)"
+    },
+    {
+      "key": "Maharaja Red",
+      "value": "rgb(113, 14, 19)"
+    },
+    {
+      "key": "Ember Gray",
+      "value": "rgb(143, 136, 136)"
+    },
+    {
+      "key": "Sleek Silver",
+      "value": "rgb(183, 196, 204)"
+    },
+    {
+      "key": "Mushroom",
+      "value": "rgb(197, 193, 181)"
+    },
+    {
+      "key": "Coral White",
+      "value": "rgb(235, 239, 240)"
+    }
+  ]
+}

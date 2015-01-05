@@ -1,0 +1,172 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "7 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "55 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4655 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1965 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1922 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2650 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "200 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "2000 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "2.2L VariCOR"
+    },
+    {
+      "key": "Displacement",
+      "value": "2179 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "138 bhp @ 4000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "320 Nm @ 1700 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "14 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "CRDI"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent Double Wishbone Type with Coil Springs Over Shock Absorber "
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "5-Link Suspension with Coil Springs"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Rack & Pinion Power Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.4 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "235 / 70 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "235 / 70 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Astern Black",
+      "value": "rgb(0, 8, 4)"
+    },
+    {
+      "key": "Sardinia Red",
+      "value": "rgb(57, 27, 29)"
+    },
+    {
+      "key": "Urban Bronze",
+      "value": "rgb(83, 69, 47)"
+    },
+    {
+      "key": "Pearl Champagne",
+      "value": "rgb(168, 170, 156)"
+    },
+    {
+      "key": "Arctic Silver",
+      "value": "rgb(198, 208, 210)"
+    },
+    {
+      "key": "Arctic White",
+      "value": "rgb(210, 215, 219)"
+    },
+    {
+      "key": "Pearl white",
+      "value": "rgb(237, 240, 245)"
+    }
+  ]
+}

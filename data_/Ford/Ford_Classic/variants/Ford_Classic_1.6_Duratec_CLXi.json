@@ -1,0 +1,172 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "430 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "45 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4282 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1686 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1468 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2486 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "168 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1110 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Duratec"
+    },
+    {
+      "key": "Displacement",
+      "value": "1596 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "101 bhp @ 6500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "146 Nm @ 3400 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "14.09 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "SEFI"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent McPherson struts with offset coil spring"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Semi-independent heavy duty twist-beam twin tube dampers"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Collapsible Power Steering with Tilt"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "4.9 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "175 / 65 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "175 / 65 R14"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Panther Black",
+      "value": "rgb(33, 28, 24)"
+    },
+    {
+      "key": "Sea Grey",
+      "value": "rgb(41, 40, 49)"
+    },
+    {
+      "key": "Chill Metallic",
+      "value": "rgb(132, 125, 115)"
+    },
+    {
+      "key": "Moondust Silver",
+      "value": "rgb(165, 158, 148)"
+    },
+    {
+      "key": "Paprika Red",
+      "value": "rgb(173, 8, 41)"
+    },
+    {
+      "key": "Diamond White",
+      "value": "rgb(173, 166, 165)"
+    }
+  ]
+}

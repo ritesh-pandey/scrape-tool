@@ -1,0 +1,27 @@
+[
+  {
+    "href": "http://www.carwale.com/astonmartin-cars/v8vantage/",
+    "name": "Aston Martin V8 Vantage"
+  },
+  {
+    "href": "http://www.carwale.com/astonmartin-cars/db9/",
+    "name": "Aston Martin DB9"
+  },
+  {
+    "href": "http://www.carwale.com/astonmartin-cars/rapide/",
+    "name": "Aston Martin Rapide"
+  },
+  {
+    "href": "http://www.carwale.com/astonmartin-cars/v12vantage/",
+    "name": "Aston Martin V12 Vantage"
+  },
+  {
+    "href": "http://www.carwale.com/astonmartin-cars/vanquish/",
+    "name": "Aston Martin Vanquish"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/astonmartin-cars/dbs20072012/",
+    "name": "Aston Martin DBS [2007-2012]"
+  }
+]

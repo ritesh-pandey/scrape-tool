@@ -1,0 +1,17 @@
+{
+  "features": [
+    {
+      "Manufacturer Warranty": [
+        {
+          "key": "Warranty (Years)",
+          "value": "2"
+        },
+        {
+          "key": "Warranty (Kilometres)",
+          "value": "Unlimited"
+        }
+      ]
+    }
+  ],
+  "colors": []
+}

@@ -1,0 +1,140 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "4 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "341 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "50 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4292 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1780 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1433 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2699 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1505 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Displacement",
+      "value": "2143 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "109 bhp @ 5000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "250 Nm @ 1400 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "20.06 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "7 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "Yes"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "Yes"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.5 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "225 / 45 R17"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "225 / 45 R17"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Pollar Silver",
+      "value": "rgb(158, 160, 154)"
+    },
+    {
+      "key": "Jupiter Red",
+      "value": "rgb(176, 31, 44)"
+    },
+    {
+      "key": "Cirrus White",
+      "value": "rgb(216, 214, 192)"
+    }
+  ]
+}

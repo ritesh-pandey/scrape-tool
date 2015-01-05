@@ -1,0 +1,7 @@
+{
+  "name": "tile-cover",
+  "version": "0.0.1",
+  "dependencies": {
+    "phantom": "^0.7.1"
+  }
+}

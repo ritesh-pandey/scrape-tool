@@ -1,0 +1,168 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "7 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "70 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4860 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1780 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1985 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "3025 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "205 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1860 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "4 Cylinder, DOHC, 16 Valve, Turbo Charged Intercooler Common Rail Engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "2149 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "139 bhp @ 3800 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "321 Nm @ 1600 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "11.6 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "4WD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent double wishbone with coil spring"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "multi link with pan hard rod and coil spring"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Power assisted steering wheel"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "6 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "245 / 70 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "245 / 70 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Robust Blue",
+      "value": "rgb(0, 41, 97)"
+    },
+    {
+      "key": "Bold Black",
+      "value": "rgb(21, 23, 16)"
+    },
+    {
+      "key": "Fierce Red",
+      "value": "rgb(76, 13, 8)"
+    },
+    {
+      "key": "Emphatic Grey",
+      "value": "rgb(166, 162, 151)"
+    },
+    {
+      "key": "Moondust Silver",
+      "value": "rgb(174, 176, 175)"
+    },
+    {
+      "key": "Silver",
+      "value": "rgb(218, 222, 225)"
+    },
+    {
+      "key": "Intense White",
+      "value": "rgb(239, 237, 238)"
+    }
+  ]
+}

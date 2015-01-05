@@ -1,0 +1,168 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "475 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "50 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4331 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1822 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1671 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2673 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "205 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1251 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "1.5 dCI K9K Diesel engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "1461 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "84 bhp @ 3750 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "200 Nm @ 1900 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "20.5 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent MacPherson strut with coil springs & anti-roll bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Torsion beam axle with coil springs & anti-roll bar"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": " hydraulic power assisted "
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.2 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "215 / 65 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "215 / 65 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Saphire Black",
+      "value": "rgb(0, 0, 0)"
+    },
+    {
+      "key": "Sterling Grey",
+      "value": "rgb(64, 80, 93)"
+    },
+    {
+      "key": "Bronze Grey",
+      "value": "rgb(85, 84, 82)"
+    },
+    {
+      "key": "Fire Red",
+      "value": "rgb(180, 41, 48)"
+    },
+    {
+      "key": "Blade Silver",
+      "value": "rgb(209, 214, 217)"
+    },
+    {
+      "key": "Pearl White",
+      "value": "rgb(255, 255, 255)"
+    }
+  ]
+}

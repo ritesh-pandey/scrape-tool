@@ -1,0 +1,20 @@
+[
+  {
+    "href": "http://www.carwale.com/lamborghini-cars/huracan/",
+    "name": "Lamborghini Huracan"
+  },
+  {
+    "href": "http://www.carwale.com/lamborghini-cars/aventador/",
+    "name": "Lamborghini Aventador"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/lamborghini-cars/murcielago/",
+    "name": "Lamborghini Murcielago"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/lamborghini-cars/gallardo-2005-2014/",
+    "name": "Lamborghini Gallardo [2005 - 2014]"
+  }
+]

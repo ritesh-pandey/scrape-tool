@@ -1,0 +1,156 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "220 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "37 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3690 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1665 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1485 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2400 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "165 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1080 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": " \tBIFUEL CNG 1.2L MPFI, BS4"
+    },
+    {
+      "key": "Displacement",
+      "value": "1396 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "CNG"
+    },
+    {
+      "key": "Max Power",
+      "value": "55 bhp @ 5200 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "90 Nm @ 2650 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "23.7 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Petrol"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "Common Rail"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent, Lower Wishbone, McPherson Strut"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Independent, Semi trailing arm with coil spring mounted on hydraulic shock absorbers"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Power assisted rack and pinion-hydraulic"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "4.9 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "155 / 80 R13"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "155 / 80 R13"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Sea Blue",
+      "value": "rgb(82, 134, 198)"
+    },
+    {
+      "key": "Jet Silver",
+      "value": "rgb(140, 138, 140)"
+    },
+    {
+      "key": "Spanish Tan",
+      "value": "rgb(151, 92, 52)"
+    },
+    {
+      "key": "Mint White",
+      "value": "rgb(186, 191, 195)"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "590 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "50 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4659 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1814 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1476 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2688 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "155 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1395 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "turbocharged diesel engine, turbocharger with self-aligning blades, in-line, liquid cooling system, high-pressure direct injection system, DOHC, transverse in front"
+    },
+    {
+      "key": "Displacement",
+      "value": "1968 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "141 bhp @ 4000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "320 Nm @ 1750 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "19.3 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "Yes"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "Yes"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson suepension with lower triangular links and torision stabiliser"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Compound link crank axle"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Direct rack and pinion steering with electro Mechanic Power steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.2 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "205 / 55 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "205 / 55 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Race Blue",
+      "value": "rgb(0, 94, 197)"
+    },
+    {
+      "key": "Magic Black",
+      "value": "rgb(37, 37, 37)"
+    },
+    {
+      "key": "Metal Grey",
+      "value": "rgb(67, 80, 89)"
+    },
+    {
+      "key": "Brilliant Silver",
+      "value": "rgb(154, 182, 185)"
+    },
+    {
+      "key": "Rio Red",
+      "value": "rgb(180, 42, 50)"
+    },
+    {
+      "key": "Cappuccino Beige",
+      "value": "rgb(202, 194, 186)"
+    },
+    {
+      "key": "Candy White",
+      "value": "rgb(213, 229, 228)"
+    }
+  ]
+}

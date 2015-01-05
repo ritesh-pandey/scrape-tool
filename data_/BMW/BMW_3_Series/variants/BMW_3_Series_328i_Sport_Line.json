@@ -1,0 +1,167 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4624 mm"
+    },
+    {
+      "key": "Width",
+      "value": "2031 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1429 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2810 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "140 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1585 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "BMW TwinPower Turbo 4-cylinder petrol engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "1997 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "245 bhp @ 5000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "350 Nm @ 1250 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "14.79 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "8 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "variable sports steering"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "225 / 45 R18"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "225 / 45 R18"
+    }
+  ],
+  "features": [
+    {}
+  ],
+  "colors": [
+    {
+      "key": "Black",
+      "value": "rgb(0, 4, 0)"
+    },
+    {
+      "key": "Impherial Blue Brilliant Effect",
+      "value": "rgb(8, 12, 16)"
+    },
+    {
+      "key": "Black Sapphire",
+      "value": "rgb(16, 20, 16)"
+    },
+    {
+      "key": "Sparkling Bronze",
+      "value": "rgb(49, 40, 33)"
+    },
+    {
+      "key": "Mineral Grey",
+      "value": "rgb(49, 52, 57)"
+    },
+    {
+      "key": "Havanna",
+      "value": "rgb(66, 52, 49)"
+    },
+    {
+      "key": "Liquid Blue",
+      "value": "rgb(90, 113, 132)"
+    },
+    {
+      "key": "Melbourne Red",
+      "value": "rgb(107, 16, 16)"
+    },
+    {
+      "key": "Galcier Silver",
+      "value": "rgb(132, 130, 140)"
+    },
+    {
+      "key": "Orion Silver",
+      "value": "rgb(142, 133, 126)"
+    },
+    {
+      "key": "Mineral White",
+      "value": "rgb(171, 171, 171)"
+    },
+    {
+      "key": "Alpine White",
+      "value": "rgb(203, 202, 200)"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "2 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "2 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "1 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "300 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "80 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4385 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1865 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1260 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2600 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1610 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Displacement",
+      "value": "4735 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "430 bhp @ 7300 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "490 Nm @ 5000 RPM"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "8, In V Shape"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "7 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent double wishbones incorporating anti-dive geometry, coil springs, anti-roll bar and monotube dampers "
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Independent double wishbones with anti- squat and anti-lift geometry, coil springs, anti-roll bar and monotube dampers "
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Rack and pinion, power-assisted steering, 2.6 turns lock-to-lock"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.6 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "245 / 40 R19"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "285 / 35 R19"
+    }
+  ],
+  "features": [
+    null
+  ],
+  "colors": []
+}

@@ -1,0 +1,168 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "324 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "60 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4370 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1783 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1473 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2646 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "145 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1587 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "D5204T6 Five-cylinder turbodiesel with start/stop technology (117g, man)"
+    },
+    {
+      "key": "Displacement",
+      "value": "1984 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "150 bhp @ 3500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "350 Nm @ 1500 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "16.81 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "81 mm x 77 mm"
+    },
+    {
+      "key": "Compression Ratio",
+      "value": "16.5:1"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "3, SOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "5, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "Yes"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "MacPherson Strut, Coil Springs, Hydraulic Shock Absorbers, Stabilizer Bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Independent Suspension with Coil Springs, Hydraulic Monotube Shock Absorbers, Stabilizer Bar"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electrically Power Assisted Rack and Pinion Steering "
+    },
+    {
+      "key": "Front Tyres",
+      "value": "115 / 90 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "115 / 90 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Black Sapphire",
+      "value": "rgb(10, 11, 13)"
+    },
+    {
+      "key": "Misty Blue",
+      "value": "rgb(69, 102, 117)"
+    },
+    {
+      "key": "Raw Copper Metallic",
+      "value": "rgb(98, 64, 45)"
+    },
+    {
+      "key": "Electric Silver Metallic",
+      "value": "rgb(118, 126, 137)"
+    },
+    {
+      "key": "Passion Red",
+      "value": "rgb(226, 29, 38)"
+    }
+  ]
+}

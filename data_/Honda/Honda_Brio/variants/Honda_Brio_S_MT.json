@@ -1,0 +1,168 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "175 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "35 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3610 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1680 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1500 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2345 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "165 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "930 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "4 cylinder inline petrol"
+    },
+    {
+      "key": "Displacement",
+      "value": "1198 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "87 bhp @ 6000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "109 Nm @ 4500 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "18.9 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, SOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson Strut"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Torsion Beam"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Collapsible electric power steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "4.5 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "175 / 65 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "175 / 65 R14"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Enerqetic Blue",
+      "value": "rgb(0, 87, 158)"
+    },
+    {
+      "key": "Crystal Black Pearl",
+      "value": "rgb(7, 0, 1)"
+    },
+    {
+      "key": "Urban Titanium",
+      "value": "rgb(86, 79, 73)"
+    },
+    {
+      "key": "Alabaster Silver",
+      "value": "rgb(123, 131, 134)"
+    },
+    {
+      "key": "Rally Red",
+      "value": "rgb(231, 12, 10)"
+    },
+    {
+      "key": "Teffeta White",
+      "value": "rgb(241, 242, 244)"
+    }
+  ]
+}

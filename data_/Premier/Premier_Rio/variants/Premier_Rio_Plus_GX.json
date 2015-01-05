@@ -1,0 +1,127 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "454 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "46 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3970 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1570 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1730 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2420 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "200 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1080 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Displacement",
+      "value": "1173 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "77 bhp @ 5800 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "104 Nm @ 4250 RPM"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson strut & coil spring"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "5 rods system"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "4.7 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "205 / 70 R15"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "205 / 70 R15"
+    }
+  ],
+  "features": [
+    null
+  ],
+  "colors": [
+    {
+      "key": "Mystic Black",
+      "value": "rgb(20, 21, 22)"
+    },
+    {
+      "key": "Topoz Blue",
+      "value": "rgb(63, 67, 138)"
+    },
+    {
+      "key": "Cherry Red",
+      "value": "rgb(152, 39, 59)"
+    },
+    {
+      "key": "Sterling Silver",
+      "value": "rgb(192, 198, 210)"
+    },
+    {
+      "key": "Paradise White",
+      "value": "rgb(255, 255, 255)"
+    }
+  ]
+}

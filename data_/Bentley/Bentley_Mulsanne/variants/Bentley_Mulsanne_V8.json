@@ -1,0 +1,23 @@
+{
+  "Dimensions & Weight": [
+    {
+      "key": "Kerb Weight",
+      "value": "2485 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Mileage (ARAI)",
+      "value": "5.91 kmpl"
+    }
+  ],
+  "features": [
+    null
+  ],
+  "colors": [
+    {
+      "key": "White",
+      "value": "rgb(207, 207, 209)"
+    }
+  ]
+}

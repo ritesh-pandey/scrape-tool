@@ -1,0 +1,156 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "7 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "71 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "5060 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1788 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1826 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2860 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "210 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "2014 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "3.0 Litre TDCi with Variable Geometry Turbocharger (VGT)"
+    },
+    {
+      "key": "Displacement",
+      "value": "2953 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "154 bhp @ 3200 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "380 Nm @ 2500 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "11.4 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "Direct injection Common Rail"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "4WD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent double wishbone with torsion bar spring & stabilizer bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Progressive linear rate leaf springs with low friction pads"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Ball & Nut Type with Variable power assist and tilt"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "245 / 70 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "245 / 70 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Panther Black",
+      "value": "rgb(17, 18, 13)"
+    },
+    {
+      "key": "Sea Grey",
+      "value": "rgb(81, 88, 94)"
+    },
+    {
+      "key": "Moondust Silver",
+      "value": "rgb(99, 101, 116)"
+    },
+    {
+      "key": "Diamond White",
+      "value": "rgb(234, 236, 226)"
+    }
+  ]
+}

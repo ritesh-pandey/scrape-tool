@@ -1,0 +1,180 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "510 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "50 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4277 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1740 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1540 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2630 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "172 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1140 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "4 cylinder diesel engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "1461 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "65 bhp @ 4000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "160 Nm @ 2000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "21 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "2, SOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "MacPherson type wishbone link"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "H-Section torsion beam with programmed deflection-coil spring"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Power Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.25 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "185 / 70 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "185 / 70 R14"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Fiery Black",
+      "value": "rgb(2, 4, 7)"
+    },
+    {
+      "key": "Dolphin Grey",
+      "value": "rgb(59, 63, 67)"
+    },
+    {
+      "key": "Java Brown",
+      "value": "rgb(83, 59, 51)"
+    },
+    {
+      "key": "Toreador Red",
+      "value": "rgb(96, 15, 12)"
+    },
+    {
+      "key": "Twilight Blue",
+      "value": "rgb(115, 142, 153)"
+    },
+    {
+      "key": "Rocky Beige",
+      "value": "rgb(117, 121, 106)"
+    },
+    {
+      "key": "Mist Silver",
+      "value": "rgb(153, 155, 156)"
+    },
+    {
+      "key": "Striking Pearl White",
+      "value": "rgb(253, 252, 247)"
+    },
+    {
+      "key": "Diamond White",
+      "value": "rgb(255, 253, 244)"
+    }
+  ]
+}

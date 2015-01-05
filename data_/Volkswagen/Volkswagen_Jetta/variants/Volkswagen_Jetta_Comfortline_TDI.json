@@ -1,0 +1,176 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "510 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "55 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4644 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1778 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1453 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2633 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "159 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1445 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "4 cylinder inline "
+    },
+    {
+      "key": "Displacement",
+      "value": "1968 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "138 bhp @ 4200 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "320 Nm @ 1750 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "19.33 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Coil spring with shock absorbers and suspension stabilizer"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "multi link suspension with stabilizer"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electronic Power Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.5 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "205 / 55 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "205 / 55 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Deep Black Pearl Metallic",
+      "value": "rgb(8, 8, 10)"
+    },
+    {
+      "key": "Tempest Blue Metallic",
+      "value": "rgb(21, 29, 50)"
+    },
+    {
+      "key": "Toffee Brown Metallic",
+      "value": "rgb(104, 14, 24)"
+    },
+    {
+      "key": "Platinum Grey Metallic",
+      "value": "rgb(104, 107, 111)"
+    },
+    {
+      "key": "Moon Rock Silver",
+      "value": "rgb(165, 175, 176)"
+    },
+    {
+      "key": "Reflex Silver Metallic",
+      "value": "rgb(165, 175, 176)"
+    },
+    {
+      "key": "Pure White",
+      "value": "rgb(227, 227, 225)"
+    },
+    {
+      "key": "Candy White",
+      "value": "rgb(245, 244, 239)"
+    }
+  ]
+}

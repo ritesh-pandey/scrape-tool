@@ -1,0 +1,164 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "490 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "41 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4425 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1695 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1505 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2600 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "161 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1010 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Renault XH2 Petrol engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "1498 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "98 bhp @ 6000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "134 Nm @ 4000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "16.95 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "MacPherson strut"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Torsion Bar"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electric Power assisted"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.3 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "185 / 70 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "185 / 70 R14"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Solid Black",
+      "value": "rgb(16, 16, 16)"
+    },
+    {
+      "key": "Metallic Blue",
+      "value": "rgb(41, 105, 189)"
+    },
+    {
+      "key": "Metallic Silver",
+      "value": "rgb(132, 138, 140)"
+    },
+    {
+      "key": "Metallic Red",
+      "value": "rgb(198, 32, 33)"
+    },
+    {
+      "key": "Pearl White",
+      "value": "rgb(198, 195, 198)"
+    }
+  ]
+}

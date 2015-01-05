@@ -1,0 +1,152 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "80 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "5118 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1874 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1850 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "3040 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "180 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "2650 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "SZ CRDe, turbocharged diesel engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "2609 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "115 bhp @ 3800 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "277 Nm @ 1700 RPM"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "Common Rail Diesel Injection"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "4WD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Double wishbone with torsion bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Semi-elliptical leaf spring with double acting hydraulic shock absorber and stab bar"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Power and Tilt Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.6 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "245 / 75 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "245 / 75 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Fiery Black",
+      "value": "rgb(75, 79, 78)"
+    },
+    {
+      "key": "Mist Silver",
+      "value": "rgb(136, 145, 144)"
+    },
+    {
+      "key": "Rocky Beige",
+      "value": "rgb(189, 187, 144)"
+    }
+  ]
+}

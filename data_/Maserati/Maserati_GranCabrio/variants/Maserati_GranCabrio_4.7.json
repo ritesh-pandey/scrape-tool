@@ -1,0 +1,131 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "4 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "2 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "173 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "75 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4881 mm"
+    },
+    {
+      "key": "Width",
+      "value": "2056 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1380 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2942 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1980 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "M139S"
+    },
+    {
+      "key": "Displacement",
+      "value": "4691 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "440 bhp @ 7000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "490 Nm @ 4750 RPM"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "94 mm x 84.5 mm"
+    },
+    {
+      "key": "Compression Ratio",
+      "value": "11.25:1"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4"
+    },
+    {
+      "key": "Cylinders",
+      "value": "8, In V Shape"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "RWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "double wishbone suspension with forged aluminium arms & hubs"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "double wishbone suspension with forged aluminium arms & hubs"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "electronic speed-sensitive power steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.35 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "245 / 35 R20"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "285 / 35 R20"
+    }
+  ],
+  "colors": []
+}

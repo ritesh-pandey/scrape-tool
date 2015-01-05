@@ -1,0 +1,145 @@
+[
+  {
+    "href": "http://www.carwale.com/mercedesbenz-cars/aclass/",
+    "name": "Mercedes-Benz A-Class"
+  },
+  {
+    "href": "http://www.carwale.com/mercedesbenz-cars/bclass/",
+    "name": "Mercedes-Benz B-Class"
+  },
+  {
+    "href": "http://www.carwale.com/mercedesbenz-cars/gla/",
+    "name": "Mercedes-Benz GLA"
+  },
+  {
+    "href": "http://www.carwale.com/mercedesbenz-cars/c-class/",
+    "name": "Mercedes-Benz C-Class"
+  },
+  {
+    "href": "http://www.carwale.com/mercedesbenz-cars/eclass/",
+    "name": "Mercedes-Benz E-Class"
+  },
+  {
+    "href": "http://www.carwale.com/mercedesbenz-cars/mclass/",
+    "name": "Mercedes-Benz M-Class"
+  },
+  {
+    "href": "http://www.carwale.com/mercedesbenz-cars/cla-class/",
+    "name": "Mercedes-Benz CLA Class"
+  },
+  {
+    "href": "http://www.carwale.com/mercedesbenz-cars/gl/",
+    "name": "Mercedes-Benz GL"
+  },
+  {
+    "href": "http://www.carwale.com/mercedesbenz-cars/slkclass/",
+    "name": "Mercedes-Benz SLK-Class"
+  },
+  {
+    "href": "http://www.carwale.com/mercedesbenz-cars/cls/",
+    "name": "Mercedes-Benz CLS"
+  },
+  {
+    "href": "http://www.carwale.com/mercedesbenz-cars/sclass/",
+    "name": "Mercedes-Benz S-Class"
+  },
+  {
+    "href": "http://www.carwale.com/mercedesbenz-cars/gclass/",
+    "name": "Mercedes-Benz G-Class"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/c-class-2001-2003/",
+    "name": "Mercedes-Benz C-Class [2001-2003]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/c-class-2003-2007/",
+    "name": "Mercedes-Benz C-Class [2003-2007]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/c-class-2007-2010/",
+    "name": "Mercedes-Benz C-Class [2007-2010]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/c-class-2010-2011/",
+    "name": "Mercedes-Benz C-Class [2010-2011]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/cls-2006-2011/",
+    "name": "Mercedes-Benz CLS [2006-2011]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/e-class-2002-2003/",
+    "name": "Mercedes-Benz E-Class [2002-2003]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/e-class-2003-2006/",
+    "name": "Mercedes-Benz E-Class [2003-2006]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/e-class-2006-2009/",
+    "name": "Mercedes-Benz E-Class [2006-2009]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/e-class-2009-2013/",
+    "name": "Mercedes-Benz E-Class [2009-2013]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/gl-2010-2013/",
+    "name": "Mercedes-Benz GL [2010-2013]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/m-class-2006-2012/",
+    "name": "Mercedes-Benz M-Class [2006-2012]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/s-class-2006-2010/",
+    "name": "Mercedes-Benz S-Class [2006-2010]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/slk-class-2006-2011/",
+    "name": "Mercedes-Benz SLK-Class [2006-2011]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/c-class-2011-2014/",
+    "name": "Mercedes-Benz C-Class [2011-2014]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/rclass/",
+    "name": "Mercedes-Benz R-Class"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/s-class-2010-2014/",
+    "name": "Mercedes-Benz S-Class [2010-2014]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/cls-2011-2014/",
+    "name": "Mercedes-Benz CLS [2011-2014]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/sl-2008-2014/",
+    "name": "Mercedes-Benz SL [2008-2014]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/mercedesbenz-cars/slsamg/",
+    "name": "Mercedes-Benz SLS AMG"
+  }
+]

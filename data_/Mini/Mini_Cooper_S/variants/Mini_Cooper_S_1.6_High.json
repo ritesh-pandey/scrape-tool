@@ -1,0 +1,140 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "4 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "2 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3729 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1913 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1407 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2467 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1380 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "inline 4 petrol engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "1598 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "184 bhp @ 5500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "240 Nm @ 5000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "15.62 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "single joint spring-strut front axle"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "multiple control-arm rear axle"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Rack & Pinion steering"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "R18"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "R18"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Ice Blue",
+      "value": "rgb(128, 161, 159)"
+    },
+    {
+      "key": "Chili Red",
+      "value": "rgb(169, 18, 37)"
+    },
+    {
+      "key": "Pepper White",
+      "value": "rgb(230, 219, 195)"
+    }
+  ]
+}

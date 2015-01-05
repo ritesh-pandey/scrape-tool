@@ -1,0 +1,152 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "232 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "37 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3795 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1695 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1550 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2470 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "165 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1045 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "4 Cylinder Turbo Intercooled"
+    },
+    {
+      "key": "Displacement",
+      "value": "1405 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "70 bhp @ 4500 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "135 Nm @ 2500 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "19.1 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent, Lower Wishbone, McPherson Strut with Coil Spring"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Semi Independent, Twist Beam with Coil Spring and Shock Absorber"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "175 / 65 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "175 / 65 R14"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Blue Chili",
+      "value": "rgb(50, 44, 119)"
+    },
+    {
+      "key": "Cavern Grey",
+      "value": "rgb(89, 89, 89)"
+    },
+    {
+      "key": "Jet Silver",
+      "value": "rgb(106, 107, 109)"
+    },
+    {
+      "key": "Dew White",
+      "value": "rgb(213, 213, 207)"
+    }
+  ]
+}

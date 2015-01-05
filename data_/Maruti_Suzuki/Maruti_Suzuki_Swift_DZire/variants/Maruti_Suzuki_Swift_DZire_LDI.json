@@ -1,0 +1,184 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "320 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "42 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3995 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1695 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1555 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2430 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "170 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1050 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "DDiS Diesel Engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "1248 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "74 bhp @ 4000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "190 Nm @ 2000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "23.4 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "69.6 mm x 82 mm"
+    },
+    {
+      "key": "Compression Ratio",
+      "value": "17.6:1"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "CRDi(Common Rail Direct Injection)"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "MacPherson Strut"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Torsion Beam "
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Power Steering with Tilt"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "4.8 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "165 / 80 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "165 / 80 R14"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Glistening Grey",
+      "value": "rgb(40, 48, 51)"
+    },
+    {
+      "key": "Pacific Blue",
+      "value": "rgb(47, 110, 141)"
+    },
+    {
+      "key": "Midnight Black",
+      "value": "rgb(58, 63, 66)"
+    },
+    {
+      "key": "Clear Beige",
+      "value": "rgb(87, 80, 64)"
+    },
+    {
+      "key": "Bright Red",
+      "value": "rgb(124, 25, 28)"
+    },
+    {
+      "key": "Arctic White",
+      "value": "rgb(159, 161, 148)"
+    },
+    {
+      "key": "Silky Silver",
+      "value": "rgb(239, 243, 244)"
+    }
+  ]
+}

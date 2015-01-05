@@ -1,0 +1,168 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "346 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "52 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3999 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1765 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1708 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2520 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "200 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1289 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "1.5L DV5 (Diesel)"
+    },
+    {
+      "key": "Displacement",
+      "value": "1498 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "89 bhp @ 3750 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "204 Nm @ 2000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "22.7 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent McPherson strut with coil spring and anti-roll bar"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Semi-independent twist beam with twin gas and oil filled shock absorbers"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "EPAS with Puull Drift Compensation technology"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.3 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "205 / 60 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "205 / 60 R16"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Kinetic Blue",
+      "value": "rgb(0, 80, 125)"
+    },
+    {
+      "key": "Panther Black",
+      "value": "rgb(17, 18, 13)"
+    },
+    {
+      "key": "Sea Grey",
+      "value": "rgb(96, 95, 101)"
+    },
+    {
+      "key": "Mars Red",
+      "value": "rgb(173, 1, 1)"
+    },
+    {
+      "key": "Moondust Silver",
+      "value": "rgb(174, 176, 175)"
+    },
+    {
+      "key": "Chill Metallic",
+      "value": "rgb(181, 170, 133)"
+    },
+    {
+      "key": "Diamond White",
+      "value": "rgb(234, 236, 226)"
+    }
+  ]
+}

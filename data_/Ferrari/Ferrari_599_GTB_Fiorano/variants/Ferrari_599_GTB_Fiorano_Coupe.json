@@ -1,0 +1,98 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "2 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "2 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4665 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1962 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1314 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2750 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1753 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "65  V12"
+    },
+    {
+      "key": "Displacement",
+      "value": "5999 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "612 bhp @ 7600 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "608 Nm @ 5600 RPM"
+    },
+    {
+      "key": "Cylinders",
+      "value": " In V Shape"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "245 / 40 R19"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "305 / 35 R20"
+    }
+  ],
+  "features": [
+    null
+  ],
+  "colors": []
+}

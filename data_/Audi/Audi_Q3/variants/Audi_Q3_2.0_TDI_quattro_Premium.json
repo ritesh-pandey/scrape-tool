@@ -1,0 +1,175 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "460 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "64 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4385 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1831 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1608 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2603 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1660 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "inline diesel engine with common rail injection and exhaust gas turbocharging."
+    },
+    {
+      "key": "Displacement",
+      "value": "1968 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "174 bhp @ 4200 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "380 Nm @ 1750 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "15.77 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Automatic"
+    },
+    {
+      "key": "No of gears",
+      "value": "7 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "Yes"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "Yes"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "AWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson spring strut type axle with lower wishbones and aluminium subframe"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "4-link rear axle with separate spring/damper arrangement"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electromechanical Power Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.9 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "215 / 65 R16"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "215 / 65 R16"
+    }
+  ],
+  "features": [
+    null
+  ],
+  "colors": [
+    {
+      "key": "Brilliant Black",
+      "value": "rgb(13, 14, 14)"
+    },
+    {
+      "key": "Phantom Black, pearl effect",
+      "value": ""
+    },
+    {
+      "key": "Cobalt Blue, metallic",
+      "value": "rgb(29, 45, 53)"
+    },
+    {
+      "key": "Karibu Brown, metallic",
+      "value": "rgb(76, 62, 46)"
+    },
+    {
+      "key": "Samoa Orange, metallic",
+      "value": "rgb(166, 75, 14)"
+    },
+    {
+      "key": "Ice Silver Metallic",
+      "value": "rgb(191, 192, 191)"
+    },
+    {
+      "key": "Glacier White Metallic",
+      "value": "rgb(220, 223, 227)"
+    },
+    {
+      "key": "Amalfi White",
+      "value": "rgb(232, 226, 220)"
+    }
+  ]
+}

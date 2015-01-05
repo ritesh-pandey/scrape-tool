@@ -1,0 +1,172 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "4 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "380 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "42 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3988 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1620 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1540 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2450 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "165 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1105 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Comon Rail CR4, 16-valve, DOHC"
+    },
+    {
+      "key": "Displacement",
+      "value": "1396 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "70 bhp @ 4000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "140 Nm @ 1800 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "25 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "75 mm x 79 mm"
+    },
+    {
+      "key": "Compression Ratio",
+      "value": "10:1"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "Direct Injection"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "Independent McPherson Strut wit Coil Spring"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Independent 3-link McPherson Strut with Antiroll Bar"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Power Steering"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "175 / 65 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "175 / 65 R14"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Jet Silver",
+      "value": "rgb(85, 85, 85)"
+    },
+    {
+      "key": "Royal Burgundy",
+      "value": "rgb(159, 30, 33)"
+    },
+    {
+      "key": "Spanish Tan",
+      "value": "rgb(191, 88, 60)"
+    },
+    {
+      "key": "Procelain White",
+      "value": "rgb(230, 231, 232)"
+    }
+  ]
+}

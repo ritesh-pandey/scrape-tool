@@ -1,0 +1,163 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "8 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "3 Rows"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "50 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4400 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1700 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1860 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2725 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "180 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1426 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Turbo-intercooled, Common Rail Diesel Engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "1461 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "75 bhp"
+    },
+    {
+      "key": "Max Torque",
+      "value": "185 Nm @ 1750 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "20.07 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, SOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "McPherson Strut Type Coil Spring"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Multi-leaf Rigid"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Hydraulic Power Assisted "
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.2 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "165 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "165 R14"
+    }
+  ],
+  "features": [
+    null
+  ],
+  "colors": [
+    {
+      "key": "Imperial Black",
+      "value": "rgb(44, 41, 52)"
+    },
+    {
+      "key": "Passion Red",
+      "value": "rgb(128, 19, 36)"
+    },
+    {
+      "key": "Moon Grey",
+      "value": "rgb(137, 127, 125)"
+    },
+    {
+      "key": "Silky Silver",
+      "value": "rgb(218, 218, 218)"
+    },
+    {
+      "key": "Sparkling White",
+      "value": "rgb(255, 255, 255)"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+[
+  {
+    "href": "http://www.carwale.com/fiat-cars/punto-evo/",
+    "name": "Fiat Punto Evo"
+  },
+  {
+    "href": "http://www.carwale.com/fiat-cars/linea-classic/",
+    "name": "Fiat Linea Classic"
+  },
+  {
+    "href": "http://www.carwale.com/fiat-cars/avventura/",
+    "name": "Fiat Avventura"
+  },
+  {
+    "href": "http://www.carwale.com/fiat-cars/linea/",
+    "name": "Fiat Linea"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/fiat-cars/500/",
+    "name": "Fiat 500"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/fiat-cars/adventure/",
+    "name": "Fiat Adventure"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/fiat-cars/paliod20032007/",
+    "name": "Fiat Palio D [2003-2007]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/fiat-cars/palionv20052007/",
+    "name": "Fiat Palio NV [2005-2007]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/fiat-cars/paliostile20072011/",
+    "name": "Fiat Palio Stile [2007-2011]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/fiat-cars/petra/",
+    "name": "Fiat Petra"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/fiat-cars/petrad/",
+    "name": "Fiat Petra D"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/fiat-cars/punto-2009-2011/",
+    "name": "Fiat Punto [2009-2011]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/fiat-cars/uno/",
+    "name": "Fiat Uno"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/fiat-cars/punto-2011-2014/",
+    "name": "Fiat Punto [2011-2014]"
+  },
+  {
+    "discontinued": true,
+    "href": "http://www.carwale.com/fiat-cars/linea20082014/",
+    "name": "Fiat Linea [2008-2014]"
+  }
+]

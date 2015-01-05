@@ -1,0 +1,156 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "450 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "65 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "4520 mm"
+    },
+    {
+      "key": "Width",
+      "value": "2120 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1695 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2690 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "206 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "1692 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Displacement",
+      "value": "1995 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Diesel"
+    },
+    {
+      "key": "Max Power",
+      "value": "147 bhp @ 4000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "320 Nm @ 2000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "17.15 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "4, Inline"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "6 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "AWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Suspension Front",
+      "value": "MacPherson type"
+    },
+    {
+      "key": "Suspension Rear",
+      "value": "Multi-arm type"
+    },
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electrical with variable power assisted"
+    },
+    {
+      "key": "Minimum Turning Radius",
+      "value": "5.8 metres"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "225 / 60 R17"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "225 / 60 R17"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Black Metallic",
+      "value": "rgb(8, 8, 8)"
+    },
+    {
+      "key": "Mapple Red",
+      "value": "rgb(126, 51, 30)"
+    },
+    {
+      "key": "Ultra Silver",
+      "value": "rgb(188, 190, 177)"
+    },
+    {
+      "key": "White Pearl",
+      "value": "rgb(246, 246, 246)"
+    }
+  ]
+}

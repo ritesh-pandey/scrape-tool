@@ -1,0 +1,164 @@
+{
+  "Capacity": [
+    {
+      "key": "Seating Capacity",
+      "value": "5 Person"
+    },
+    {
+      "key": "Doors",
+      "value": "5 Doors"
+    },
+    {
+      "key": "No of Seating Rows",
+      "value": "2 Rows"
+    },
+    {
+      "key": "Bootspace",
+      "value": "251 litres"
+    },
+    {
+      "key": "Fuel Tank Capacity",
+      "value": "41 litres"
+    }
+  ],
+  "Dimensions & Weight": [
+    {
+      "key": "Length",
+      "value": "3805 mm"
+    },
+    {
+      "key": "Width",
+      "value": "1665 mm"
+    },
+    {
+      "key": "Height",
+      "value": "1530 mm"
+    },
+    {
+      "key": "Wheelbase",
+      "value": "2450 mm"
+    },
+    {
+      "key": "Ground Clearance",
+      "value": "154 mm"
+    },
+    {
+      "key": "Kerb Weight",
+      "value": "930 kg"
+    }
+  ],
+  "Engine & Transmission": [
+    {
+      "key": "Engine Type",
+      "value": "Renault XHS Petrol engine"
+    },
+    {
+      "key": "Displacement",
+      "value": "1198 cc"
+    },
+    {
+      "key": "Fuel Type",
+      "value": "Petrol"
+    },
+    {
+      "key": "Max Power",
+      "value": "74 bhp @ 6000 RPM"
+    },
+    {
+      "key": "Max Torque",
+      "value": "104 Nm @ 4000 RPM"
+    },
+    {
+      "key": "Mileage (ARAI)",
+      "value": "18.1 kmpl"
+    },
+    {
+      "key": "Alternate Fuel",
+      "value": "Not Applicable"
+    },
+    {
+      "key": "Bore x Stroke",
+      "value": "78 mm x 83.6 mm"
+    },
+    {
+      "key": "Valve/Cylinder (Configuration)",
+      "value": "4, DOHC"
+    },
+    {
+      "key": "Cylinders",
+      "value": "3, Inline"
+    },
+    {
+      "key": "Fuel System",
+      "value": "Electronic Fuel Injection Control"
+    },
+    {
+      "key": "Transmission Type",
+      "value": "Manual"
+    },
+    {
+      "key": "No of gears",
+      "value": "5 Gears"
+    },
+    {
+      "key": "Dual Clutch",
+      "value": "No"
+    },
+    {
+      "key": "Sport Mode",
+      "value": "No"
+    },
+    {
+      "key": "Drivetrain",
+      "value": "FWD"
+    }
+  ],
+  "Suspensions, Brakes, Steering & Tyres": [
+    {
+      "key": "Front Brake Type",
+      "value": "Disc"
+    },
+    {
+      "key": "Rear Brake Type",
+      "value": "Drum"
+    },
+    {
+      "key": "Steering Type",
+      "value": "Electric Power assisted"
+    },
+    {
+      "key": "Front Tyres",
+      "value": "165 / 70 R14"
+    },
+    {
+      "key": "Rear Tyres",
+      "value": "165 / 70 R14"
+    }
+  ],
+  "colors": [
+    {
+      "key": "Solid Black",
+      "value": "rgb(49, 51, 66)"
+    },
+    {
+      "key": "Champagne Gold",
+      "value": "rgb(124, 91, 72)"
+    },
+    {
+      "key": "Metallic Silver",
+      "value": "rgb(127, 127, 127)"
+    },
+    {
+      "key": "Metallic Red",
+      "value": "rgb(179, 32, 40)"
+    },
+    {
+      "key": "Metallic Grey",
+      "value": "rgb(183, 201, 211)"
+    },
+    {
+      "key": "Pearl White",
+      "value": "rgb(204, 204, 202)"
+    }
+  ]
+}
